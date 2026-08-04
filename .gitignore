@@ -1,2 +1,3 @@
 *.gitkeep
 !labs/**/.gitkeep
+.DS_Store
