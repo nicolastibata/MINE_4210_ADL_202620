@@ -1,0 +1,2088 @@
+﻿Genero;Edad;Antecedentes_familiares;Come_calorico;Frecuencia_verduras;Comidas_dia;Picoteo;Fuma;Agua_dia;Monitorea_calorias;Actividad_fisica;Tiempo_pantallas;Alcohol;Transporte;Nivel_obesidad
+Femenino;21;Si;No;2;3;A veces;No;2;No;0;1;No;Transporte_Publico;Peso_Normal
+Femenino;21;Si;No;3;3;A veces;Si;3;Si;3;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;23;Si;No;2;3;A veces;No;2;No;2;1;Frecuentemente;Transporte_Publico;Peso_Normal
+Masculino;27;No;No;3;3;A veces;No;2;No;2;0;Frecuentemente;Caminando;Sobrepeso_Nivel_I
+Masculino;22;No;No;2;1;A veces;No;2;No;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;29;No;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Peso_Normal
+Femenino;23;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Motocicleta;Peso_Normal
+Masculino;22;No;No;2;3;A veces;No;2;No;3;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;24;Si;Si;3;3;A veces;No;2;No;1;1;Frecuentemente;Transporte_Publico;Peso_Normal
+Masculino;22;Si;Si;2;3;A veces;No;2;No;1;1;No;Transporte_Publico;Peso_Normal
+Masculino;26;Si;Si;3;3;Frecuentemente;No;3;No;2;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;21;Si;Si;2;3;Frecuentemente;No;2;Si;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;22;No;No;3;3;A veces;No;3;No;2;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;41;No;Si;2;3;A veces;No;2;No;2;1;Frecuentemente;Automovil;Obesidad_Tipo_I
+Masculino;23;Si;Si;3;1;A veces;No;1;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Femenino;22;Si;No;3;3;Siempre;No;2;Si;2;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;27;Si;Si;2;1;A veces;No;1;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;29;No;Si;2;1;A veces;No;2;No;0;0;No;Automovil;Obesidad_Tipo_I
+Femenino;30;Si;Si;3;4;Frecuentemente;Si;1;No;0;0;No;Automovil;Sobrepeso_Nivel_II
+Femenino;23;Si;No;2;1;A veces;No;2;No;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;22;Si;No;2;3;A veces;No;2;No;3;2;No;Caminando;Sobrepeso_Nivel_II
+Femenino;52;Si;Si;3;1;A veces;Si;2;No;0;0;No;Automovil;Obesidad_Tipo_I
+Femenino;22;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Automovil;Peso_Normal
+Femenino;22;Si;Si;1;1;A veces;No;2;No;0;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;20;Si;No;2;4;Frecuentemente;Si;2;No;3;2;No;Transporte_Publico;Peso_Normal
+Masculino;21;Si;Si;2;1;Frecuentemente;No;2;No;1;2;Siempre;Caminando;Peso_Normal
+Femenino;23;No;Si;2;4;Frecuentemente;No;2;No;2;1;A veces;Automovil;Peso_Normal
+Masculino;19;Si;Si;3;3;A veces;No;2;Si;3;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;23;No;Si;2;3;A veces;No;2;No;2;2;Frecuentemente;Caminando;Peso_Normal
+Masculino;29;No;Si;1;4;Frecuentemente;No;3;No;0;1;No;Motocicleta;Sobrepeso_Nivel_I
+Femenino;31;Si;No;2;1;A veces;No;1;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;24;No;No;2;3;A veces;No;3;No;1;1;A veces;Caminando;Peso_Normal
+Masculino;39;No;No;2;1;A veces;No;2;No;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;22;No;Si;2;4;Frecuentemente;No;2;No;2;0;A veces;Transporte_Publico;Peso_Normal
+Femenino;21;Si;No;2;3;A veces;No;2;No;2;2;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;22;No;Si;2;3;A veces;No;1;Si;2;0;No;Caminando;Peso_Normal
+Femenino;21;No;Si;2;3;A veces;No;1;No;1;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;23;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Femenino;21;Si;Si;2;3;A veces;No;3;No;3;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;21;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;23;No;No;2;4;Frecuentemente;No;2;No;0;0;No;Caminando;Peso_Normal
+Femenino;21;Si;Si;1;3;A veces;No;1;No;0;0;No;Transporte_Publico;Peso_Normal
+Masculino;21;Si;Si;2;3;A veces;Si;2;No;1;1;Frecuentemente;Transporte_Publico;Peso_Normal
+Masculino;21;No;No;1;3;No;No;2;No;2;0;No;Transporte_Publico;Peso_Normal
+Femenino;21;Si;No;2;3;A veces;No;1;No;0;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;21;Si;Si;1;3;Frecuentemente;No;3;No;2;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;21;Si;Si;1;3;Frecuentemente;No;3;No;2;0;A veces;Transporte_Publico;Peso_Normal
+Femenino;20;Si;No;3;3;A veces;No;2;No;1;0;A veces;Caminando;Peso_Normal
+Femenino;21;No;Si;2;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Peso_Normal
+Femenino;21;Si;Si;3;3;A veces;No;3;No;0;1;A veces;Caminando;Peso_Normal
+Femenino;20;No;Si;2;3;A veces;No;1;No;0;0;A veces;Automovil;Peso_Normal
+Femenino;23;No;Si;3;1;A veces;No;2;No;2;2;No;Transporte_Publico;Peso_Normal
+Femenino;23;Si;No;3;3;No;No;2;Si;2;1;No;Transporte_Publico;Peso_Normal
+Femenino;22;No;No;3;4;Siempre;No;3;No;2;0;No;Transporte_Publico;Peso_Normal
+Masculino;23;No;No;2;4;Frecuentemente;No;2;No;0;0;A veces;Automovil;Peso_Normal
+Masculino;22;Si;Si;2;3;A veces;No;1;No;0;1;A veces;Automovil;Peso_Normal
+Masculino;21;Si;No;2;3;A veces;No;1;No;0;1;No;Transporte_Publico;Peso_Normal
+Femenino;17;Si;Si;3;1;A veces;No;2;No;1;1;No;Caminando;Peso_Normal
+Masculino;20;Si;Si;2;4;A veces;No;3;No;2;2;No;Transporte_Publico;Peso_Insuficiente
+Femenino;21;Si;Si;2;3;A veces;No;3;No;3;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;20;No;Si;2;3;A veces;No;2;No;3;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;22;No;Si;2;1;No;No;2;No;0;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;22;Si;Si;2;3;A veces;No;2;No;0;2;A veces;Automovil;Peso_Normal
+Femenino;21;Si;Si;2;3;Frecuentemente;No;1;No;1;1;No;Transporte_Publico;Peso_Normal
+Femenino;21;Si;Si;1;3;Frecuentemente;No;2;No;0;1;No;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;23;Si;Si;1;3;Siempre;No;2;No;0;2;Frecuentemente;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;23;Si;Si;2;3;Siempre;No;2;No;0;1;Frecuentemente;Automovil;Obesidad_Tipo_I
+Masculino;30;Si;Si;1;3;No;Si;2;Si;0;0;Frecuentemente;Automovil;Obesidad_Tipo_II
+Masculino;23;Si;No;2;3;No;No;3;No;0;1;A veces;Transporte_Publico;Peso_Normal
+Femenino;23;Si;Si;2;3;Siempre;No;2;No;0;2;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;22;Si;No;3;3;No;No;3;Si;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;24;Si;No;2;3;A veces;No;3;Si;1;0;No;Transporte_Publico;Peso_Normal
+Masculino;19;Si;No;2;3;A veces;No;3;No;2;1;A veces;Bicicleta;Peso_Normal
+Masculino;24;Si;Si;2;3;Frecuentemente;No;3;No;0;1;Frecuentemente;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;23;Si;No;3;3;A veces;No;3;Si;2;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;24;Si;No;2;3;No;No;2;No;1;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;24;Si;Si;2;3;A veces;No;3;No;0;0;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;23;Si;Si;2;3;A veces;No;3;No;0;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;23;Si;No;2;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Peso_Normal
+Femenino;19;No;No;3;3;A veces;No;2;Si;0;0;No;Transporte_Publico;Peso_Normal
+Masculino;30;Si;Si;2;3;Frecuentemente;No;2;No;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;23;Si;Si;2;3;Siempre;No;2;No;0;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;19;No;No;3;3;No;No;3;Si;2;0;No;Caminando;Peso_Insuficiente
+Masculino;25;Si;Si;2;3;Frecuentemente;No;2;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;23;Si;No;2;3;A veces;No;2;No;0;0;No;Transporte_Publico;Peso_Normal
+Masculino;21;Si;Si;2;1;Frecuentemente;No;3;No;1;0;No;Transporte_Publico;Peso_Normal
+Masculino;19;Si;Si;2;3;A veces;No;2;No;0;0;No;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;22;Si;Si;2;3;Frecuentemente;No;2;Si;1;0;No;Automovil;Peso_Normal
+Femenino;29;Si;Si;3;3;A veces;No;1;No;2;1;Frecuentemente;Automovil;Sobrepeso_Nivel_II
+Femenino;25;No;No;3;4;Siempre;No;1;No;2;0;No;Transporte_Publico;Obesidad_Tipo_II
+Femenino;20;Si;No;3;3;Siempre;No;2;Si;0;1;Frecuentemente;Transporte_Publico;Peso_Normal
+Masculino;55;Si;No;3;4;Frecuentemente;No;3;Si;3;0;Frecuentemente;Caminando;Sobrepeso_Nivel_I
+Femenino;20;No;No;3;3;Siempre;No;2;No;1;0;No;Caminando;Peso_Normal
+Femenino;24;No;Si;3;3;A veces;No;2;No;2;0;No;Transporte_Publico;Peso_Normal
+Masculino;26;Si;No;3;1;Frecuentemente;No;2;No;2;0;Frecuentemente;Transporte_Publico;Peso_Normal
+Femenino;23;Si;No;2;3;A veces;No;2;No;3;0;A veces;Transporte_Publico;Peso_Normal
+Femenino;21;No;No;3;1;Frecuentemente;No;1;No;0;0;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;23;No;No;2;3;A veces;No;2;No;3;1;Frecuentemente;Transporte_Publico;Peso_Normal
+Femenino;21;No;Si;3;1;A veces;No;1;No;0;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;22;Si;No;2;3;Frecuentemente;No;2;No;0;0;No;Transporte_Publico;Peso_Normal
+Femenino;21;No;Si;2;4;Frecuentemente;No;2;Si;2;0;A veces;Automovil;Peso_Normal
+Femenino;22;Si;Si;3;4;Frecuentemente;No;2;No;1;0;A veces;Transporte_Publico;Peso_Normal
+Femenino;38;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;25;No;Si;2;1;A veces;No;2;No;2;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;22;Si;Si;2;3;Siempre;No;1;No;0;1;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;22;Si;No;2;3;A veces;No;3;No;3;2;No;Caminando;Obesidad_Tipo_I
+Femenino;21;Si;Si;3;1;A veces;No;3;No;2;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Peso_Normal
+Femenino;22;Si;Si;2;1;A veces;No;1;No;0;0;No;Transporte_Publico;Peso_Normal
+Femenino;18;Si;Si;2;4;Frecuentemente;No;2;No;1;0;A veces;Transporte_Publico;Peso_Normal
+Femenino;22;Si;No;2;1;A veces;No;2;No;3;0;No;Caminando;Peso_Normal
+Femenino;19;Si;Si;3;1;Frecuentemente;No;2;No;1;0;Frecuentemente;Transporte_Publico;Peso_Normal
+Femenino;17;Si;Si;3;3;Frecuentemente;No;2;No;0;1;No;Transporte_Publico;Peso_Normal
+Femenino;15;Si;Si;3;3;A veces;No;1;No;3;2;No;Caminando;Obesidad_Tipo_I
+Femenino;17;Si;No;2;3;Frecuentemente;No;2;No;1;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;23;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Femenino;19;Si;No;3;3;Frecuentemente;Si;3;No;2;1;A veces;Automovil;Sobrepeso_Nivel_II
+Femenino;23;Si;Si;2;3;Frecuentemente;Si;2;No;0;2;No;Caminando;Sobrepeso_Nivel_I
+Masculino;23;Si;Si;1;3;Frecuentemente;No;2;No;0;2;Frecuentemente;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;21;Si;No;3;4;Frecuentemente;No;1;No;1;0;No;Caminando;Peso_Insuficiente
+Masculino;24;Si;Si;3;1;A veces;No;2;No;1;0;No;Transporte_Publico;Peso_Normal
+Masculino;23;No;Si;3;3;A veces;No;1;No;0;0;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;18;Si;Si;2;3;Siempre;No;2;No;0;0;Frecuentemente;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19;No;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Peso_Normal
+Femenino;19;No;Si;3;1;A veces;No;3;Si;1;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;20;Si;Si;3;3;Frecuentemente;No;1;No;0;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;27;No;Si;3;3;A veces;No;3;No;1;1;Frecuentemente;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;20;Si;Si;2;4;Frecuentemente;No;2;No;1;1;No;Transporte_Publico;Peso_Normal
+Masculino;23;No;No;2;3;A veces;No;1;No;1;0;No;Transporte_Publico;Peso_Normal
+Femenino;19;Si;Si;3;3;Frecuentemente;Si;3;Si;1;2;Frecuentemente;Transporte_Publico;Peso_Normal
+Femenino;61;No;Si;3;3;Siempre;No;2;No;1;1;Frecuentemente;Transporte_Publico;Peso_Normal
+Masculino;30;Si;Si;3;3;A veces;No;1;No;2;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;24;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;25;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;44;Si;No;2;3;A veces;Si;3;No;0;0;No;Motocicleta;Obesidad_Tipo_I
+Masculino;31;Si;No;3;3;Siempre;No;3;Si;3;0;No;Bicicleta;Peso_Normal
+Masculino;25;No;Si;2;3;Frecuentemente;No;2;No;0;1;No;Transporte_Publico;Peso_Normal
+Masculino;23;Si;Si;3;3;Frecuentemente;No;3;No;1;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;25;No;Si;3;3;Siempre;No;2;No;2;0;Frecuentemente;Transporte_Publico;Peso_Normal
+Masculino;23;No;Si;2;3;Frecuentemente;Si;1;No;1;1;Frecuentemente;Automovil;Obesidad_Tipo_I
+Femenino;34;No;Si;3;1;A veces;No;1;No;0;0;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;22;Si;No;2;4;A veces;No;3;Si;2;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21;No;Si;2;1;No;No;3;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;24;No;No;3;3;Frecuentemente;No;2;No;2;2;Frecuentemente;Transporte_Publico;Peso_Normal
+Femenino;36;Si;No;3;3;A veces;No;1;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;27;No;Si;3;3;Siempre;No;2;No;0;0;A veces;Automovil;Peso_Normal
+Femenino;32;Si;Si;3;1;A veces;No;2;No;2;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;25;Si;Si;2;1;A veces;No;2;No;2;1;A veces;Transporte_Publico;Peso_Normal
+Femenino;30;Si;Si;3;3;A veces;No;2;No;2;0;A veces;Automovil;Peso_Normal
+Femenino;38;Si;Si;2;1;Siempre;Si;2;No;0;0;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;34;Si;No;2;3;A veces;No;3;No;2;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;22;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;31;Si;Si;3;1;Frecuentemente;No;2;No;1;1;A veces;Automovil;Peso_Normal
+Femenino;35;Si;No;3;3;Frecuentemente;No;1;No;0;1;No;Automovil;Peso_Normal
+Masculino;21;Si;Si;2;3;Frecuentemente;No;2;No;2;1;A veces;Transporte_Publico;Peso_Normal
+Femenino;40;Si;No;3;3;A veces;No;3;No;0;0;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;27;Si;Si;2;1;A veces;No;2;No;0;0;Frecuentemente;Automovil;Sobrepeso_Nivel_II
+Masculino;20;Si;No;3;3;A veces;Si;1;No;2;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;55;No;Si;2;3;A veces;No;2;No;1;0;No;Automovil;Sobrepeso_Nivel_II
+Femenino;21;Si;Si;3;3;Siempre;Si;2;No;2;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;25;No;No;3;3;Frecuentemente;No;2;Si;3;0;No;Transporte_Publico;Peso_Normal
+Masculino;35;Si;No;3;3;Frecuentemente;No;3;No;2;1;A veces;Automovil;Sobrepeso_Nivel_II
+Masculino;30;Si;No;2;3;A veces;Si;1;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Femenino;29;Si;No;3;3;Siempre;No;2;No;0;0;A veces;Automovil;Peso_Normal
+Masculino;20;Si;No;2;3;A veces;No;2;No;1;2;No;Caminando;Sobrepeso_Nivel_II
+Femenino;22;Si;Si;2;1;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;45;Si;Si;2;3;Frecuentemente;No;1;No;0;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;22;No;Si;2;1;A veces;No;2;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;18;Si;Si;2;3;Frecuentemente;No;2;No;1;0;A veces;Transporte_Publico;Peso_Normal
+Femenino;23;No;No;3;1;A veces;No;2;No;1;2;A veces;Transporte_Publico;Peso_Normal
+Masculino;18;No;No;3;3;A veces;No;2;Si;0;1;No;Transporte_Publico;Peso_Normal
+Femenino;38;Si;Si;2;3;A veces;No;2;No;2;0;No;Transporte_Publico;Peso_Normal
+Femenino;18;Si;Si;3;1;Siempre;No;1;No;1;0;No;Transporte_Publico;Peso_Normal
+Masculino;22;Si;Si;3;3;Frecuentemente;No;2;Si;3;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;26;Si;Si;3;3;Frecuentemente;Si;2;No;2;2;Frecuentemente;Transporte_Publico;Peso_Normal
+Femenino;18;No;Si;2;3;A veces;No;2;No;1;0;No;Transporte_Publico;Peso_Normal
+Femenino;23;Si;Si;2;3;Frecuentemente;No;1;No;0;0;A veces;Transporte_Publico;Peso_Normal
+Femenino;22;No;Si;3;3;Frecuentemente;No;2;No;0;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;23;Si;Si;2;1;A veces;Si;1;No;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;31;No;No;3;3;A veces;No;2;No;1;0;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;39;Si;No;2;3;A veces;No;3;No;1;0;Frecuentemente;Automovil;Obesidad_Tipo_I
+Masculino;25;Si;No;2;3;A veces;No;3;No;3;2;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;35;Si;Si;3;1;No;No;3;No;3;1;Frecuentemente;Automovil;Obesidad_Tipo_I
+Femenino;33;Si;Si;2;3;A veces;No;2;No;1;1;No;Transporte_Publico;Peso_Normal
+Masculino;20;No;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;26;Si;Si;3;1;Frecuentemente;Si;2;Si;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;20;Si;No;3;3;A veces;No;3;Si;3;0;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;20;No;No;2;1;Frecuentemente;No;3;Si;2;1;No;Transporte_Publico;Peso_Normal
+Femenino;23;Si;Si;3;3;Frecuentemente;No;3;No;3;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;19;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Caminando;Sobrepeso_Nivel_I
+Masculino;22;Si;No;2;3;A veces;No;2;No;1;2;A veces;Bicicleta;Peso_Normal
+Masculino;41;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Bicicleta;Obesidad_Tipo_II
+Femenino;18;Si;Si;2;1;Frecuentemente;No;1;No;0;2;No;Transporte_Publico;Peso_Insuficiente
+Femenino;23;Si;Si;2;1;A veces;No;1;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Femenino;23;Si;No;3;1;A veces;Si;3;No;1;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;41;Si;Si;2;3;Siempre;No;1;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;26;Si;Si;3;3;A veces;Si;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Masculino;29;Si;No;2;3;A veces;No;3;No;1;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;27;Si;Si;2;3;A veces;No;2;No;3;2;No;Automovil;Peso_Normal
+Femenino;23;Si;Si;2;1;A veces;Si;2;No;1;0;Frecuentemente;Transporte_Publico;Obesidad_Tipo_I
+Masculino;19;Si;Si;2;3;Frecuentemente;No;2;No;2;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;30;Si;No;2;3;No;No;2;Si;1;0;A veces;Caminando;Peso_Normal
+Femenino;22;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;20;Si;Si;2;3;Frecuentemente;No;2;No;0;1;No;Transporte_Publico;Obesidad_Tipo_II
+Femenino;21;No;Si;2;1;A veces;No;1;No;1;1;No;Transporte_Publico;Peso_Normal
+Femenino;24;Si;No;2;1;A veces;No;2;No;0;0;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;21;Si;Si;3;3;A veces;No;2;No;1;0;No;Transporte_Publico;Peso_Normal
+Masculino;21;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;21;Si;Si;3;3;A veces;No;3;No;0;2;A veces;Transporte_Publico;Peso_Normal
+Femenino;23;Si;No;3;3;Frecuentemente;No;2;No;3;0;A veces;Caminando;Peso_Normal
+Masculino;21;No;No;2;3;Frecuentemente;No;3;Si;3;1;Frecuentemente;Automovil;Sobrepeso_Nivel_I
+Femenino;21;Si;No;1;1;A veces;No;2;No;3;0;No;Transporte_Publico;Peso_Normal
+Femenino;21;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21;Si;No;2;3;Frecuentemente;No;2;Si;0;2;Frecuentemente;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;23;Si;Si;2;1;A veces;No;1;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;21;Si;Si;3;4;Siempre;No;3;No;0;2;No;Transporte_Publico;Peso_Normal
+Femenino;22;Si;Si;3;3;Frecuentemente;No;3;No;1;0;No;Transporte_Publico;Peso_Normal
+Femenino;23;Si;Si;2;1;A veces;No;2;No;0;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;25;Si;No;3;3;A veces;No;3;No;2;0;A veces;Caminando;Obesidad_Tipo_II
+Femenino;20;No;Si;2;3;A veces;No;1;No;0;1;No;Automovil;Peso_Normal
+Femenino;24;No;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Femenino;40;No;No;3;3;A veces;No;3;No;0;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;32;Si;No;3;3;A veces;No;3;No;0;2;No;Automovil;Obesidad_Tipo_II
+Masculino;20;Si;Si;3;4;A veces;No;3;No;2;0;A veces;Caminando;Sobrepeso_Nivel_I
+Femenino;21;Si;Si;3;1;A veces;Si;3;No;0;0;A veces;Transporte_Publico;Peso_Normal
+Femenino;51;Si;No;3;3;A veces;Si;3;Si;2;0;No;Transporte_Publico;Peso_Normal
+Femenino;34;Si;No;3;1;A veces;No;2;No;1;0;A veces;Automovil;Sobrepeso_Nivel_II
+Femenino;19;Si;Si;2;1;No;No;2;No;2;0;No;Transporte_Publico;Peso_Normal
+Femenino;19;Si;No;2;1;No;No;2;No;2;0;No;Transporte_Publico;Peso_Normal
+Femenino;21;No;Si;1;3;Siempre;No;2;Si;3;0;No;Automovil;Peso_Normal
+Femenino;19;Si;Si;3;3;A veces;No;1;No;1;1;No;Transporte_Publico;Peso_Normal
+Femenino;20;No;Si;3;1;A veces;No;3;No;1;1;No;Transporte_Publico;Peso_Normal
+Femenino;19;Si;Si;3;3;No;No;3;Si;3;1;No;Transporte_Publico;Peso_Normal
+Femenino;17;No;Si;2;1;A veces;No;3;No;1;1;No;Transporte_Publico;Peso_Normal
+Masculino;22;No;Si;3;3;A veces;No;2;No;3;0;No;Bicicleta;Sobrepeso_Nivel_I
+Femenino;20;Si;Si;1;3;Siempre;No;2;No;0;2;No;Automovil;Peso_Normal
+Masculino;33;Si;Si;2;3;A veces;Si;3;No;1;0;A veces;Automovil;Sobrepeso_Nivel_II
+Femenino;21;Si;No;2;1;A veces;No;2;Si;2;0;A veces;Transporte_Publico;Peso_Normal
+Femenino;20;No;No;3;3;A veces;Si;2;No;2;1;A veces;Automovil;Peso_Insuficiente
+Femenino;20;No;Si;3;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Peso_Normal
+Femenino;20;No;Si;3;3;Frecuentemente;No;1;No;3;1;No;Automovil;Peso_Normal
+Masculino;21;Si;Si;3;3;Siempre;No;3;Si;3;0;A veces;Automovil;Peso_Normal
+Masculino;21;Si;Si;3;1;A veces;No;2;No;3;0;A veces;Caminando;Sobrepeso_Nivel_I
+Femenino;20;Si;Si;3;1;A veces;No;2;No;1;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;20;Si;No;2;1;A veces;No;3;No;0;0;Frecuentemente;Automovil;Sobrepeso_Nivel_II
+Masculino;56;Si;No;2;3;A veces;Si;2;No;1;0;Frecuentemente;Automovil;Sobrepeso_Nivel_II
+Femenino;26;Si;Si;2;1;A veces;No;2;No;0;2;A veces;Transporte_Publico;Peso_Normal
+Femenino;22;Si;No;3;3;A veces;No;2;No;0;0;No;Transporte_Publico;Peso_Normal
+Masculino;19;Si;No;1;3;A veces;No;2;No;3;0;No;Bicicleta;Sobrepeso_Nivel_I
+Masculino;18;Si;No;2;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;19;No;No;2;3;A veces;No;3;Si;1;2;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;18;No;No;3;1;A veces;No;1;No;1;0;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;18;Si;Si;1;3;Frecuentemente;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21;No;Si;2;3;A veces;No;1;No;1;0;No;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;28;Si;No;2;3;Frecuentemente;No;2;Si;2;0;A veces;Caminando;Sobrepeso_Nivel_I
+Masculino;18;No;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;23;No;Si;2;3;Frecuentemente;No;1;No;3;2;No;Transporte_Publico;Peso_Insuficiente
+Masculino;18;Si;Si;3;3;Frecuentemente;No;3;Si;1;1;A veces;Automovil;Peso_Normal
+Masculino;18;No;Si;1;3;Frecuentemente;No;1;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;39;No;Si;3;4;Frecuentemente;No;2;No;0;0;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;38;No;Si;3;3;Frecuentemente;No;2;No;0;0;Frecuentemente;Automovil;Sobrepeso_Nivel_II
+Masculino;17;No;No;2;4;Siempre;No;2;No;0;2;No;Transporte_Publico;Peso_Normal
+Masculino;23;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Caminando;Peso_Normal
+Masculino;23;No;Si;2;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;19;No;Si;2;3;Frecuentemente;No;1;No;0;2;A veces;Transporte_Publico;Peso_Normal
+Masculino;18;No;Si;2;3;A veces;No;2;No;2;1;No;Transporte_Publico;Peso_Normal
+Masculino;25;Si;Si;2;3;Frecuentemente;No;2;No;0;0;A veces;Motocicleta;Peso_Normal
+Femenino;25;No;No;2;3;A veces;No;1;No;2;1;A veces;Transporte_Publico;Peso_Normal
+Femenino;18;Si;Si;3;3;Frecuentemente;No;2;No;0;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;16;Si;Si;2;1;Frecuentemente;No;3;No;1;0;No;Transporte_Publico;Peso_Insuficiente
+Masculino;21;No;Si;2;4;Siempre;Si;3;No;3;2;A veces;Caminando;Peso_Normal
+Femenino;32;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Automovil;Peso_Normal
+Masculino;18;No;No;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;21;No;Si;3;4;Frecuentemente;Si;2;No;0;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;18;Si;Si;2;3;Frecuentemente;No;2;No;0;0;A veces;Transporte_Publico;Peso_Normal
+Femenino;18;Si;Si;2;3;Frecuentemente;No;1;No;1;1;No;Transporte_Publico;Peso_Normal
+Masculino;17;No;No;2;3;A veces;No;3;No;2;1;A veces;Caminando;Peso_Normal
+Masculino;20;Si;Si;1;1;A veces;No;2;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;21;Si;Si;2;3;Siempre;No;1;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;21;No;Si;2;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Femenino;18;Si;Si;2;3;A veces;No;3;No;3;0;No;Transporte_Publico;Peso_Normal
+Femenino;17;No;Si;3;3;A veces;No;1;No;0;2;No;Transporte_Publico;Peso_Normal
+Masculino;19;No;No;2;3;A veces;No;3;No;3;0;A veces;Automovil;Peso_Normal
+Masculino;16;Si;Si;2;3;Frecuentemente;No;2;No;2;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;17;No;Si;2;3;Frecuentemente;No;2;No;2;1;No;Caminando;Peso_Insuficiente
+Masculino;21;Si;Si;2;3;Frecuentemente;No;1;No;1;1;No;Transporte_Publico;Peso_Normal
+Masculino;19;Si;No;2;3;Frecuentemente;No;2;No;1;0;No;Transporte_Publico;Peso_Normal
+Masculino;18;Si;Si;2;1;A veces;Si;2;No;1;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;16;No;No;2;1;A veces;No;1;No;0;1;No;Caminando;Peso_Normal
+Femenino;21;No;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;26;No;No;2;3;A veces;No;2;No;2;0;No;Automovil;Sobrepeso_Nivel_I
+Masculino;18;Si;Si;2;3;Frecuentemente;No;1;No;0;1;Frecuentemente;Transporte_Publico;Peso_Normal
+Masculino;23;No;Si;3;3;A veces;No;3;No;1;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;26;No;Si;2;3;A veces;Si;1;No;0;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;18;No;Si;2;4;A veces;No;2;No;2;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;16;Si;Si;3;3;Siempre;No;3;No;3;2;A veces;Caminando;Peso_Insuficiente
+Femenino;16;No;Si;2;4;Siempre;No;2;No;0;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;20;Si;No;2;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;23;Si;Si;2;3;A veces;Si;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Femenino;24;Si;Si;1;3;Siempre;No;2;No;0;2;A veces;Transporte_Publico;Peso_Normal
+Femenino;23;Si;Si;2;1;Frecuentemente;No;1;No;0;2;A veces;Transporte_Publico;Peso_Normal
+Masculino;20;No;Si;3;4;Siempre;No;3;No;2;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;17;Si;Si;2;4;Frecuentemente;No;2;No;2;1;No;Transporte_Publico;Peso_Insuficiente
+Masculino;17;No;Si;2;3;Siempre;No;2;No;3;1;No;Transporte_Publico;Peso_Normal
+Femenino;16;No;Si;3;3;A veces;No;1;No;3;0;No;Transporte_Publico;Peso_Normal
+Masculino;17;Si;Si;1;3;Siempre;No;2;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Femenino;26;No;Si;3;3;A veces;No;1;No;1;0;No;Caminando;Peso_Normal
+Masculino;26;No;Si;2;3;Siempre;No;2;No;0;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;38;Si;No;3;3;Frecuentemente;No;1;No;2;1;No;Automovil;Peso_Normal
+Masculino;18;No;Si;3;4;A veces;No;2;No;1;1;No;Transporte_Publico;Peso_Normal
+Femenino;25;No;Si;2;3;A veces;No;1;No;0;0;A veces;Transporte_Publico;Peso_Normal
+Femenino;27;No;Si;2;3;A veces;No;1;No;0;1;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;21;Si;Si;3;1;Siempre;No;2;No;1;1;No;Transporte_Publico;Peso_Normal
+Masculino;38;Si;No;3;3;Frecuentemente;No;1;No;3;1;No;Automovil;Peso_Normal
+Femenino;23;No;No;3;3;Frecuentemente;No;2;No;2;0;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;18;Si;Si;2;3;A veces;No;2;No;3;0;A veces;Automovil;Peso_Normal
+Femenino;30;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21;No;Si;2;1;A veces;No;1;No;1;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;18;Si;Si;3;3;A veces;No;2;No;3;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;23;Si;No;3;4;Frecuentemente;No;1;No;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19;Si;No;3;1;A veces;No;3;No;3;1;A veces;Caminando;Peso_Normal
+Femenino;19;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;17;No;Si;3;4;Frecuentemente;No;1;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;17;Si;Si;2;3;A veces;No;2;No;2;1;No;Transporte_Publico;Peso_Normal
+Masculino;27;Si;Si;2;1;A veces;No;2;No;1;0;No;Caminando;Peso_Normal
+Femenino;23;No;No;3;4;Siempre;No;3;Si;3;0;No;Automovil;Peso_Normal
+Femenino;18;No;Si;2;3;Frecuentemente;No;2;Si;1;2;Frecuentemente;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19;No;Si;1;4;Frecuentemente;No;1;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;20;No;Si;2;3;A veces;No;2;No;0;1;No;Transporte_Publico;Peso_Normal
+Masculino;18;Si;Si;3;3;Frecuentemente;No;2;No;3;2;No;Caminando;Peso_Normal
+Femenino;17;No;Si;3;1;A veces;No;2;Si;1;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;19;No;No;2;3;A veces;No;1;Si;2;0;Frecuentemente;Transporte_Publico;Peso_Insuficiente
+Masculino;21;No;Si;3;3;A veces;No;2;No;1;1;No;Transporte_Publico;Peso_Normal
+Masculino;20;No;No;2;3;A veces;No;1;No;0;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;23;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;23;No;No;3;3;A veces;No;2;No;3;0;No;Transporte_Publico;Peso_Normal
+Masculino;18;Si;Si;3;3;Frecuentemente;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Masculino;17;No;Si;3;3;Siempre;No;2;No;3;1;A veces;Transporte_Publico;Peso_Normal
+Femenino;21;Si;No;3;3;Siempre;No;1;No;2;0;No;Transporte_Publico;Peso_Normal
+Masculino;17;Si;Si;2;3;A veces;No;3;No;1;1;A veces;Caminando;Sobrepeso_Nivel_II
+Masculino;18;Si;Si;2;3;A veces;No;2;No;3;2;No;Caminando;Peso_Normal
+Masculino;20;Si;Si;2;3;Siempre;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;17;Si;No;2;3;A veces;No;1;No;3;2;A veces;Caminando;Peso_Normal
+Femenino;26;No;No;3;4;Siempre;No;2;No;2;0;No;Caminando;Peso_Normal
+Femenino;17;No;Si;1;3;A veces;No;1;No;2;2;A veces;Caminando;Peso_Normal
+Femenino;24;Si;Si;1;3;A veces;No;2;No;0;1;A veces;Automovil;Peso_Normal
+Femenino;17;No;Si;2;3;A veces;No;2;No;1;2;No;Transporte_Publico;Peso_Normal
+Femenino;27;No;Si;3;1;A veces;No;1;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;17;No;No;3;3;A veces;No;2;No;3;1;No;Caminando;Peso_Insuficiente
+Femenino;17;Si;Si;1;3;A veces;No;1;No;1;1;No;Automovil;Peso_Normal
+Masculino;41;Si;No;2;1;A veces;No;1;No;1;0;Frecuentemente;Automovil;Obesidad_Tipo_II
+Femenino;33;Si;No;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;20;No;Si;2;3;Frecuentemente;No;1;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Femenino;40;Si;Si;2;1;A veces;No;2;No;2;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;37;Si;No;3;3;A veces;No;2;No;1;0;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;19;No;Si;2;1;A veces;No;2;No;2;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;24;Si;Si;2;1;Siempre;No;2;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;24;No;Si;3;3;A veces;No;2;No;0;0;A veces;Motocicleta;Peso_Normal
+Masculino;33;Si;Si;2;1;A veces;No;2;No;3;0;A veces;Automovil;Sobrepeso_Nivel_II
+Femenino;40;No;Si;2;3;Frecuentemente;No;2;No;3;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;37;Si;Si;2;1;A veces;No;2;No;0;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;20;No;No;3;3;Frecuentemente;No;2;No;3;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;19;No;Si;2;3;A veces;No;1;No;1;1;No;Transporte_Publico;Peso_Normal
+Masculino;17;Si;Si;3;1;Siempre;No;2;Si;1;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;18;No;Si;3;3;A veces;No;1;No;0;2;No;Automovil;Peso_Normal
+Femenino;21;No;Si;2;1;A veces;No;2;No;0;2;A veces;Transporte_Publico;Peso_Normal
+Masculino;18;Si;Si;2;4;Frecuentemente;No;2;No;2;1;A veces;Automovil;Peso_Normal
+Masculino;41;Si;Si;2;1;Frecuentemente;No;3;No;1;0;A veces;Automovil;Sobrepeso_Nivel_II
+Femenino;36;Si;No;3;3;A veces;No;1;No;2;0;A veces;Automovil;Peso_Normal
+Masculino;18;No;No;2;4;Frecuentemente;No;2;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;18;No;Si;3;3;Frecuentemente;No;1;No;2;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;17;Si;Si;3;3;A veces;No;2;No;0;2;A veces;Caminando;Peso_Normal
+Masculino;25;No;Si;3;3;A veces;No;3;Si;3;0;No;Motocicleta;Sobrepeso_Nivel_II
+Masculino;21;Si;Si;3;3;Frecuentemente;No;1;No;2;0;A veces;Transporte_Publico;Peso_Normal
+Femenino;29;Si;No;2;3;Frecuentemente;No;1;No;0;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;17;Si;No;2;3;A veces;No;2;No;0;1;A veces;Automovil;Obesidad_Tipo_I
+Femenino;18;Si;Si;3;1;A veces;No;1;Si;0;2;No;Caminando;Peso_Normal
+Femenino;16;No;Si;2;3;Frecuentemente;No;2;No;1;1;No;Transporte_Publico;Peso_Normal
+Femenino;18;No;No;1;3;A veces;No;1;No;1;2;No;Transporte_Publico;Peso_Normal
+Femenino;37;Si;Si;2;3;Frecuentemente;No;1;No;0;0;A veces;Motocicleta;Obesidad_Tipo_I
+Masculino;18;Si;No;2;3;A veces;No;3;No;1;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;16;Si;Si;1;1;A veces;No;2;No;0;0;No;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;23;Si;Si;2;3;Siempre;No;3;No;0;2;No;Transporte_Publico;Peso_Insuficiente
+Femenino;18;No;No;2;3;A veces;No;2;No;0;1;A veces;Caminando;Peso_Insuficiente
+Masculino;18;No;No;3;3;Frecuentemente;No;3;No;2;2;No;Transporte_Publico;Peso_Normal
+Masculino;18;No;Si;1;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;17;Si;Si;2;3;A veces;No;1;No;0;1;No;Transporte_Publico;Peso_Normal
+Femenino;20;Si;Si;1;3;A veces;No;2;No;3;2;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;38;Si;No;3;3;A veces;No;1;No;2;1;Frecuentemente;Automovil;Peso_Normal
+Masculino;20;No;Si;2;4;Frecuentemente;No;3;No;0;0;No;Transporte_Publico;Peso_Normal
+Masculino;21;Si;Si;3;1;Siempre;No;1;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;21;No;No;3;1;Frecuentemente;No;1;No;0;0;A veces;Motocicleta;Peso_Normal
+Masculino;18;Si;No;2;3;A veces;No;2;No;0;0;No;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;26;No;Si;2;3;Siempre;No;2;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;27;Si;Si;3;1;Frecuentemente;No;2;No;2;1;A veces;Caminando;Sobrepeso_Nivel_II
+Femenino;26;Si;No;3;3;A veces;No;3;No;0;0;No;Automovil;Obesidad_Tipo_III
+Masculino;34;No;Si;2;3;A veces;No;2;No;3;1;A veces;Automovil;Peso_Normal
+Masculino;18;No;No;3;3;A veces;No;2;No;3;0;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;33;No;No;2;3;A veces;No;2;No;3;1;A veces;Automovil;Peso_Normal
+Femenino;19;Si;Si;3;3;Frecuentemente;No;1;No;1;2;A veces;Caminando;Sobrepeso_Nivel_I
+Masculino;20;Si;No;3;1;A veces;No;2;No;0;0;A veces;Transporte_Publico;Peso_Normal
+Femenino;33;Si;Si;3;1;A veces;No;3;No;2;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;20;No;No;2;3;A veces;No;2;No;1;1;No;Transporte_Publico;Peso_Normal
+Femenino;20;No;No;3;3;A veces;No;2;Si;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;33;No;Si;2;3;Frecuentemente;No;2;No;1;0;A veces;Automovil;Peso_Normal
+Masculino;33;No;No;2;3;A veces;No;2;Si;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;33;Si;Si;2;1;Siempre;No;2;No;1;2;Frecuentemente;Automovil;Obesidad_Tipo_I
+Masculino;14;Si;Si;3;3;A veces;No;3;No;2;1;No;Caminando;Peso_Normal
+Masculino;34;No;Si;3;3;A veces;No;1;Si;2;0;No;Automovil;Sobrepeso_Nivel_I
+Masculino;18;Si;Si;3;3;A veces;No;2;No;1;1;Frecuentemente;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;18;No;Si;3;3;A veces;No;2;No;2;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;29;Si;Si;1;3;A veces;No;1;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;18;Si;Si;3;4;A veces;No;2;Si;2;0;A veces;Automovil;Peso_Insuficiente
+Masculino;18;Si;Si;3;4;A veces;No;2;Si;2;0;A veces;Automovil;Peso_Insuficiente
+Masculino;19;No;Si;2;3;A veces;No;2;No;2;0;A veces;Bicicleta;Peso_Normal
+Masculino;33;Si;Si;2;3;A veces;No;1;No;1;1;A veces;Caminando;Sobrepeso_Nivel_II
+Masculino;33;No;No;2;3;A veces;No;1;No;0;2;A veces;Caminando;Sobrepeso_Nivel_I
+Femenino;19;Si;Si;2;3;Siempre;No;2;No;2;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;22;No;No;2;3;A veces;No;3;No;1;1;No;Transporte_Publico;Peso_Normal
+Femenino;20;No;Si;3;3;No;No;2;No;3;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;23;No;Si;3;1;Frecuentemente;No;1;No;2;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;26;Si;Si;2;3;Frecuentemente;No;1;Si;1;0;A veces;Automovil;Peso_Normal
+Masculino;18;No;Si;2;3;A veces;No;1;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;18;No;Si;2;4;Frecuentemente;No;2;No;2;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;19;No;Si;3;3;Frecuentemente;No;1;No;2;0;No;Transporte_Publico;Peso_Normal
+Femenino;18;Si;Si;2;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;19;No;Si;2;4;Frecuentemente;No;2;No;3;1;Frecuentemente;Automovil;Peso_Normal
+Femenino;19;Si;Si;2;1;A veces;No;3;No;3;1;No;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;18;No;Si;2;3;A veces;No;1;No;0;0;Frecuentemente;Automovil;Peso_Normal
+Femenino;18;Si;Si;2;1;Siempre;No;2;No;1;0;A veces;Caminando;Peso_Normal
+Femenino;19;No;Si;3;3;A veces;No;2;No;2;1;A veces;Automovil;Peso_Normal
+Femenino;19;No;Si;2;3;Frecuentemente;No;2;No;0;1;A veces;Transporte_Publico;Peso_Normal
+Femenino;18;No;Si;2;3;A veces;No;1;No;0;0;No;Automovil;Peso_Normal
+Femenino;18;Si;Si;3;3;Frecuentemente;No;1;No;1;2;No;Transporte_Publico;Peso_Normal
+Masculino;26;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Caminando;Peso_Normal
+Masculino;18;Si;Si;2;3;A veces;No;2;No;0;2;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;19;Si;Si;2;1;A veces;No;2;No;2;0;A veces;Transporte_Publico;Peso_Normal
+Femenino;19;No;Si;2;4;A veces;No;1;No;3;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;19;Si;Si;3;3;Frecuentemente;No;2;No;2;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;19;Si;Si;2;4;A veces;No;2;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;24;Si;Si;3;1;A veces;No;1;No;0;2;A veces;Transporte_Publico;Obesidad_Tipo_II
+Femenino;18;Si;Si;1;3;A veces;No;2;No;2;2;A veces;Transporte_Publico;Peso_Normal
+Masculino;19;No;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;19;Si;No;2;3;Frecuentemente;No;2;No;1;0;No;Transporte_Publico;Peso_Normal
+Masculino;23;No;No;3;3;No;No;2;No;2;1;A veces;Automovil;Peso_Normal
+Femenino;18;No;Si;3;3;A veces;No;1;No;0;0;A veces;Automovil;Peso_Normal
+Femenino;20;No;Si;3;1;A veces;No;1;No;1;0;No;Transporte_Publico;Peso_Normal
+Masculino;18;No;Si;2;3;Frecuentemente;No;1;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Femenino;33;No;Si;3;1;Frecuentemente;No;2;No;0;0;No;Transporte_Publico;Peso_Normal
+Femenino;19;No;Si;2;3;A veces;No;1;No;0;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;19;No;Si;2;3;Siempre;No;1;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;19;Si;Si;2;3;Frecuentemente;No;3;No;1;2;Frecuentemente;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21;Si;Si;2;1;A veces;No;2;No;0;2;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;27;Si;Si;2;1;Siempre;No;2;No;0;0;A veces;Automovil;Sobrepeso_Nivel_II
+Masculino;17;Si;No;2;3;A veces;No;1;No;2;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;18;No;No;3;4;Siempre;No;2;No;2;0;A veces;Caminando;Peso_Normal
+Femenino;18;Si;Si;2;3;Frecuentemente;No;1;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;22;Si;Si;3;3;Frecuentemente;No;1;No;1;0;No;Automovil;Peso_Normal
+Femenino;20;No;Si;3;3;Frecuentemente;No;1;No;1;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19;No;Si;3;1;A veces;No;2;No;0;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;20;No;Si;2;3;Frecuentemente;No;2;No;3;0;A veces;Transporte_Publico;Peso_Normal
+Femenino;18;Si;Si;2;3;A veces;No;2;Si;1;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;18;No;No;3;4;Frecuentemente;No;2;No;1;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;18;Si;Si;1;3;Frecuentemente;No;1;No;1;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;19;No;Si;2;3;A veces;No;1;No;1;0;No;Transporte_Publico;Peso_Normal
+Femenino;18;No;No;2;1;A veces;No;1;No;0;2;No;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;18;Si;Si;3;3;A veces;No;2;No;1;0;No;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;18;Si;Si;3;3;Frecuentemente;No;1;Si;1;1;No;Transporte_Publico;Peso_Normal
+Masculino;19;No;Si;2;3;Frecuentemente;No;1;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Femenino;17;No;Si;1;4;Frecuentemente;No;2;No;1;2;A veces;Transporte_Publico;Peso_Normal
+Femenino;18;No;Si;2;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;18;Si;Si;3;4;A veces;No;1;Si;2;0;A veces;Transporte_Publico;Peso_Normal
+Femenino;20;Si;Si;2;1;Frecuentemente;No;2;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Femenino;18;No;Si;2;3;A veces;No;1;No;0;0;No;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;36;Si;Si;2;3;A veces;No;1;No;0;2;No;Automovil;Sobrepeso_Nivel_II
+Masculino;21;Si;Si;1;3;Siempre;No;2;No;3;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;23;No;Si;2;3;A veces;No;2;No;1;0;Frecuentemente;Transporte_Publico;Peso_Normal
+Masculino;20;Si;No;2;3;A veces;No;3;No;3;0;No;Motocicleta;Obesidad_Tipo_I
+Masculino;21;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Caminando;Peso_Normal
+Femenino;19;No;Si;2;1;A veces;No;1;No;0;2;No;Transporte_Publico;Peso_Normal
+Masculino;24;No;Si;3;3;No;No;2;Si;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;25;No;Si;2;3;A veces;Si;1;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Masculino;45;No;Si;3;3;Frecuentemente;No;1;No;0;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;20;No;Si;2;3;Frecuentemente;No;1;No;2;0;A veces;Motocicleta;Peso_Normal
+Femenino;18;No;Si;3;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Peso_Normal
+Masculino;19;Si;Si;3;1;Siempre;No;1;Si;0;0;No;Motocicleta;Peso_Normal
+Masculino;20;No;No;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Peso_Normal
+Femenino;25.196214;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.503343;Si;Si;3;3;A veces;No;1;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.853826;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.90012;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.306615;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.849705;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Masculino;19.799054;Si;Si;2;3;A veces;No;3;No;2;2;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;17.188754;Si;Si;2;4;A veces;No;3;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;22.285024;Si;Si;2;4;A veces;No;2;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;22;Si;Si;3;3;Frecuentemente;No;3;No;2;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;21.02497;Si;Si;3;3;Frecuentemente;No;3;No;2;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;22.038327;Si;Si;3;3;Frecuentemente;No;1;No;2;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;21.243142;No;No;3;2;Frecuentemente;No;2;No;1;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;22.142432;No;No;3;3;Frecuentemente;No;3;No;1;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;21.962426;No;No;3;2;Frecuentemente;No;3;No;1;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;21.491055;No;No;2;2;Frecuentemente;No;2;No;0;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;22.717943;No;No;3;1;Frecuentemente;No;1;No;0;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;23.501249;No;No;3;3;Frecuentemente;No;2;No;2;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;18.535075;No;Si;3;3;A veces;No;3;Si;3;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;19;No;Si;3;2;A veces;No;2;Si;0;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;19;No;Si;3;2;A veces;No;2;Si;2;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;20.254534;No;Si;2;1;Frecuentemente;No;1;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;21;No;Si;3;1;Frecuentemente;No;1;No;0;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;20.225396;No;Si;3;3;Frecuentemente;No;1;No;1;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.86997;No;Si;3;1;Frecuentemente;No;2;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;20.147114;No;Si;3;1;Frecuentemente;No;1;No;0;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;21.996523;No;No;3;4;Frecuentemente;No;2;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;21.376426;No;No;3;3;Frecuentemente;No;2;No;1;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.724106;No;No;1;4;Frecuentemente;No;1;No;1;0;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;23;Si;Si;3;3;A veces;No;3;No;1;0;A veces;Automovil;Peso_Insuficiente
+Masculino;22.851834;Si;Si;3;4;A veces;No;3;No;1;1;A veces;Automovil;Peso_Insuficiente
+Masculino;23;Si;Si;3;3;A veces;No;2;No;2;0;A veces;Automovil;Peso_Insuficiente
+Masculino;18.216032;Si;Si;3;3;Frecuentemente;No;2;No;1;1;No;Transporte_Publico;Peso_Insuficiente
+Masculino;21.81119;Si;Si;3;3;Frecuentemente;No;1;No;1;0;No;Transporte_Publico;Peso_Insuficiente
+Masculino;18.164768;Si;Si;3;3;Frecuentemente;No;2;No;1;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;18.871794;No;Si;2;1;A veces;No;1;No;0;2;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;18.766033;No;Si;2;1;A veces;No;2;No;0;2;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;18.540535;No;Si;3;1;A veces;No;1;No;0;2;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.88036;No;No;3;4;Frecuentemente;No;2;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.717249;No;No;3;3;Frecuentemente;No;2;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.633898;No;No;3;3;Frecuentemente;No;2;No;1;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;23;Si;Si;2;3;Frecuentemente;No;2;No;2;2;No;Transporte_Publico;Peso_Insuficiente
+Femenino;20.406871;Si;Si;2;4;Frecuentemente;No;2;No;3;2;No;Transporte_Publico;Peso_Insuficiente
+Femenino;23;Si;Si;2;3;Frecuentemente;No;1;No;1;2;No;Transporte_Publico;Peso_Insuficiente
+Femenino;19.058511;No;Si;1;3;A veces;No;1;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;18.827008;No;Si;1;3;A veces;No;1;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.314964;No;Si;2;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;29.970445;Si;Si;2;4;Frecuentemente;No;2;No;1;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;32.383858;Si;Si;3;3;Frecuentemente;No;3;No;1;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;24.163526;Si;Si;3;4;Frecuentemente;No;3;No;0;0;No;Transporte_Publico;Peso_Insuficiente
+Masculino;17.038222;No;Si;2;2;A veces;No;2;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;16.30687;No;Si;2;4;A veces;No;2;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;16.198153;No;Si;2;2;A veces;No;3;No;1;0;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;18;No;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;18;No;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;18;No;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;17.486869;Si;Si;3;4;A veces;No;2;No;2;1;No;Automovil;Peso_Insuficiente
+Masculino;19.920629;Si;Si;2;4;A veces;No;3;No;2;2;No;Automovil;Peso_Insuficiente
+Masculino;18.426619;Si;Si;2;3;A veces;No;2;No;2;2;No;Automovil;Peso_Insuficiente
+Femenino;17.082867;No;Si;3;3;A veces;No;3;No;3;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;17.000433;No;Si;3;3;A veces;No;2;No;2;2;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;16.270434;No;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;17.908114;Si;Si;3;4;A veces;No;2;No;2;0;No;Automovil;Peso_Insuficiente
+Masculino;17.120699;Si;Si;3;4;A veces;No;2;No;2;0;No;Automovil;Peso_Insuficiente
+Masculino;19.329542;Si;Si;2;4;A veces;No;2;No;2;2;No;Automovil;Peso_Insuficiente
+Femenino;22.377998;Si;Si;3;3;Frecuentemente;No;2;No;0;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;20.954955;Si;Si;3;4;Frecuentemente;No;3;No;2;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;22.991668;Si;Si;3;3;Frecuentemente;No;2;No;2;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;19.300435;No;Si;3;4;A veces;No;2;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;17.065445;No;Si;3;4;A veces;No;1;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.084967;No;Si;3;4;A veces;No;1;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;18.024853;No;Si;1;4;Frecuentemente;No;1;No;1;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.833682;No;Si;1;4;Frecuentemente;No;2;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;17.767432;No;Si;1;4;Frecuentemente;No;1;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.504696;No;No;3;3;Frecuentemente;No;1;No;2;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.950605;No;No;3;1;Frecuentemente;No;1;No;1;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19;No;No;3;1;Frecuentemente;No;2;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;17;Si;Si;2;3;A veces;No;2;No;3;1;No;Automovil;Peso_Insuficiente
+Masculino;17;Si;Si;2;3;A veces;No;2;No;2;1;No;Automovil;Peso_Insuficiente
+Masculino;18.525525;Si;Si;3;3;A veces;No;2;No;2;1;No;Automovil;Peso_Insuficiente
+Femenino;22.926352;Si;Si;2;4;Frecuentemente;No;1;No;1;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;21.785351;Si;Si;3;3;Frecuentemente;No;3;No;1;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;23;Si;Si;2;3;Frecuentemente;No;1;No;2;2;No;Transporte_Publico;Peso_Insuficiente
+Femenino;17.402028;No;Si;2;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;18;No;Si;1;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;18.48207;No;Si;2;4;A veces;No;1;No;1;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;18.53084;No;Si;1;2;A veces;No;1;No;1;2;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.94814;No;Si;2;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;20.400053;No;Si;3;3;A veces;No;1;No;0;0;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;19.556729;Si;Si;2;4;A veces;No;2;No;2;1;No;Automovil;Peso_Insuficiente
+Masculino;17.70368;Si;Si;3;4;A veces;No;2;No;2;0;No;Automovil;Peso_Insuficiente
+Masculino;18.274358;Si;Si;2;4;A veces;No;3;No;2;1;No;Automovil;Peso_Insuficiente
+Masculino;18;Si;Si;3;4;A veces;No;2;No;2;0;No;Automovil;Peso_Insuficiente
+Masculino;17.210933;Si;Si;3;4;A veces;No;2;No;2;0;No;Automovil;Peso_Insuficiente
+Masculino;17.469417;Si;Si;2;4;A veces;No;2;No;2;0;No;Automovil;Peso_Insuficiente
+Masculino;18;Si;Si;2;3;A veces;No;2;No;0;2;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;18;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;18;Si;Si;2;3;A veces;No;1;No;1;2;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.010211;No;No;3;3;Frecuentemente;No;1;Si;1;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.091346;No;No;3;3;Frecuentemente;No;1;Si;2;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.773303;No;No;3;3;Frecuentemente;No;3;Si;1;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.483036;No;Si;3;1;Frecuentemente;No;1;No;0;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19;No;Si;3;1;Frecuentemente;No;1;No;1;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.407204;No;Si;3;1;Frecuentemente;No;2;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;18;Si;Si;1;3;A veces;No;1;No;0;2;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;18.424941;Si;Si;2;3;A veces;No;2;No;2;2;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;18;Si;Si;2;3;A veces;No;1;No;1;2;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;19.97981;Si;Si;2;3;A veces;No;3;No;2;2;No;Transporte_Publico;Peso_Insuficiente
+Femenino;21.798856;Si;Si;3;3;Frecuentemente;No;3;No;1;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;22.209706;No;No;3;3;Frecuentemente;No;3;No;2;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;23.018443;No;No;2;2;Frecuentemente;No;2;No;1;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;19.376997;No;No;3;3;Frecuentemente;No;3;Si;1;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;20.971429;No;Si;3;1;Frecuentemente;No;1;No;0;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;20.345161;No;Si;3;1;Frecuentemente;No;1;No;0;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;20.519916;Si;No;3;4;Frecuentemente;No;1;No;2;1;No;Transporte_Publico;Peso_Insuficiente
+Masculino;20.406066;Si;Si;3;4;A veces;No;3;No;2;0;A veces;Automovil;Peso_Insuficiente
+Femenino;21.478496;Si;Si;3;3;Frecuentemente;No;2;No;0;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;18.372563;No;Si;2;1;A veces;No;1;No;0;2;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.931667;No;No;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;22.998709;Si;Si;2;3;Frecuentemente;No;2;No;2;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;18.006742;No;Si;1;3;Frecuentemente;No;1;No;1;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;34.799519;Si;Si;3;4;Frecuentemente;No;2;No;0;0;No;Transporte_Publico;Peso_Insuficiente
+Masculino;16.496978;No;Si;2;2;A veces;No;3;No;1;0;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;18;No;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;17.377131;Si;Si;2;4;A veces;No;2;No;2;1;No;Automovil;Peso_Insuficiente
+Femenino;16.611837;No;Si;3;3;A veces;No;3;No;3;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;17.080493;Si;Si;2;4;A veces;No;2;No;2;1;No;Automovil;Peso_Insuficiente
+Femenino;22.970655;Si;Si;2;3;Frecuentemente;No;2;No;2;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;17.764764;No;Si;3;4;A veces;No;1;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.272573;No;Si;1;4;Frecuentemente;No;1;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19;No;No;3;3;Frecuentemente;No;1;Si;2;0;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;17.06713;Si;Si;3;3;A veces;No;2;No;3;1;No;Automovil;Peso_Insuficiente
+Femenino;23;Si;Si;2;3;Frecuentemente;No;3;No;0;2;No;Transporte_Publico;Peso_Insuficiente
+Femenino;18;No;Si;2;3;A veces;No;2;No;0;2;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.054008;No;Si;2;2;A veces;No;2;No;2;2;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;18;Si;Si;3;4;A veces;No;2;No;2;0;No;Automovil;Peso_Insuficiente
+Masculino;17.491272;Si;Si;3;4;A veces;No;2;No;2;0;No;Automovil;Peso_Insuficiente
+Masculino;18;Si;Si;2;3;A veces;No;2;No;0;2;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;20.172661;No;No;3;3;Frecuentemente;No;1;Si;1;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.220108;No;Si;3;1;Frecuentemente;No;2;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;18;Si;Si;2;3;A veces;No;2;No;0;2;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;19.96247;Si;Si;2;4;A veces;No;3;No;2;2;No;Transporte_Publico;Peso_Insuficiente
+Masculino;17.580627;Si;Si;2;4;A veces;No;2;No;2;2;No;Automovil;Peso_Insuficiente
+Femenino;21.125098;Si;Si;2;4;Frecuentemente;No;2;No;2;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;22.033129;Si;Si;3;3;Frecuentemente;No;2;No;2;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;20.744839;Si;Si;3;3;Frecuentemente;No;2;No;2;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;22.547298;Si;Si;3;3;Frecuentemente;No;1;No;1;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;21.837996;No;No;3;2;Frecuentemente;No;3;No;1;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;23.035829;No;No;3;3;Frecuentemente;No;2;No;2;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;21.529439;No;No;3;2;Frecuentemente;No;3;No;1;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;21.287999;No;No;2;1;Frecuentemente;No;1;No;0;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;23.444286;No;No;3;2;Frecuentemente;No;2;No;0;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;22.329041;No;No;3;2;Frecuentemente;No;2;No;1;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;18.91505;No;Si;3;3;A veces;No;3;Si;1;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19;No;Si;3;2;A veces;No;2;No;0;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;19.052833;No;Si;3;2;A veces;No;2;No;1;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;19.59904;No;Si;3;1;Frecuentemente;No;1;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.673262;No;No;3;3;Frecuentemente;No;1;Si;1;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;20.244359;No;Si;3;1;Frecuentemente;No;1;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;20.552695;No;Si;3;1;Frecuentemente;No;1;No;0;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;21.997683;Si;Si;3;4;Frecuentemente;No;2;No;0;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;21.274628;Si;Si;3;3;Frecuentemente;No;1;No;1;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;18.909439;No;Si;1;3;A veces;No;1;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;22.396504;Si;Si;3;3;A veces;No;2;No;2;0;A veces;Automovil;Peso_Insuficiente
+Masculino;19.084317;Si;Si;3;4;A veces;No;3;No;1;0;A veces;Automovil;Peso_Insuficiente
+Masculino;21.084625;Si;Si;3;3;A veces;No;2;No;2;2;No;Automovil;Peso_Insuficiente
+Masculino;18.068767;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;21.813083;Si;Si;3;3;Frecuentemente;No;1;No;2;0;No;Transporte_Publico;Peso_Insuficiente
+Masculino;18.038422;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;18.874591;No;Si;3;1;A veces;No;1;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.21164;No;Si;2;1;A veces;No;2;No;0;2;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;18.988581;No;Si;3;1;A veces;No;1;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.408999;No;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.665881;No;No;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.758286;No;No;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;22.422674;Si;Si;3;3;Frecuentemente;No;2;No;1;2;No;Transporte_Publico;Peso_Insuficiente
+Masculino;20.242237;Si;Si;2;4;A veces;No;3;No;2;2;No;Transporte_Publico;Peso_Insuficiente
+Femenino;22.637018;Si;Si;3;3;Frecuentemente;No;2;No;0;2;No;Transporte_Publico;Peso_Insuficiente
+Femenino;19.007177;No;Si;1;3;A veces;No;1;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;18.288205;No;Si;1;3;A veces;No;1;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.314429;No;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;27.14823;Si;Si;2;3;Frecuentemente;No;2;No;1;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;25.380557;Si;Si;3;3;Frecuentemente;No;2;No;2;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;22.867719;Si;Si;3;4;Frecuentemente;No;2;No;0;0;No;Transporte_Publico;Peso_Insuficiente
+Masculino;17.729923;No;Si;2;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;16.834813;No;Si;2;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;17.521754;No;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;18;No;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;18;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;18.128249;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;17.405104;Si;Si;3;4;A veces;No;2;No;2;0;No;Automovil;Peso_Insuficiente
+Masculino;19.72925;Si;Si;3;3;A veces;No;2;No;2;1;No;Automovil;Peso_Insuficiente
+Masculino;18.525834;Si;Si;2;4;A veces;No;3;No;2;2;No;Automovil;Peso_Insuficiente
+Femenino;18.595614;No;Si;3;3;A veces;No;3;Si;2;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;16.613108;No;Si;3;3;A veces;No;2;No;2;2;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;16.928791;No;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;17.758315;Si;Si;3;4;A veces;No;2;No;2;0;No;Automovil;Peso_Insuficiente
+Masculino;17.282945;Si;Si;3;4;A veces;No;2;No;2;0;No;Automovil;Peso_Insuficiente
+Masculino;19.993154;Si;Si;2;4;A veces;No;3;No;2;2;No;Automovil;Peso_Insuficiente
+Femenino;22.935612;Si;Si;3;3;Frecuentemente;No;2;No;1;0;No;Transporte_Publico;Peso_Insuficiente
+Masculino;20.738469;Si;Si;3;4;A veces;No;3;No;2;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;22.99368;Si;Si;3;3;Frecuentemente;No;2;No;2;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;19.317148;No;Si;3;4;A veces;No;2;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;16.910997;No;Si;2;4;A veces;No;1;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.071027;No;Si;2;3;A veces;No;1;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;18.019572;No;Si;2;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.735968;No;Si;1;4;A veces;No;1;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;18.094079;No;Si;1;4;Frecuentemente;No;1;No;2;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.054938;No;No;3;3;Frecuentemente;No;1;Si;1;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;20.850119;No;Si;3;1;Frecuentemente;No;1;No;0;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.349258;No;Si;3;1;Frecuentemente;No;2;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;17;Si;Si;2;3;A veces;No;2;No;3;1;No;Automovil;Peso_Insuficiente
+Masculino;17.203917;Si;Si;3;4;A veces;No;2;No;2;1;No;Automovil;Peso_Insuficiente
+Masculino;17.671064;Si;Si;3;4;A veces;No;2;No;2;1;No;Automovil;Peso_Insuficiente
+Femenino;21.310907;Si;Si;3;4;Frecuentemente;No;1;No;1;0;No;Transporte_Publico;Peso_Insuficiente
+Femenino;21.708354;Si;Si;3;3;Frecuentemente;No;3;No;1;1;No;Transporte_Publico;Peso_Insuficiente
+Femenino;22.176922;Si;Si;2;3;Frecuentemente;No;1;No;2;2;No;Transporte_Publico;Peso_Insuficiente
+Femenino;17.823438;No;Si;2;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;18;No;Si;2;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;18.281092;No;Si;1;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;18.656912;No;Si;2;2;A veces;No;2;No;0;2;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.994543;No;Si;1;3;A veces;No;2;No;2;2;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;20.255616;No;Si;3;3;Frecuentemente;No;1;No;0;0;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;19.865895;Si;Si;2;4;A veces;No;3;No;2;2;No;Automovil;Peso_Insuficiente
+Masculino;17.888073;Si;Si;3;4;A veces;No;2;No;2;0;No;Automovil;Peso_Insuficiente
+Masculino;18.470562;Si;Si;2;4;A veces;No;2;No;2;1;No;Automovil;Peso_Insuficiente
+Masculino;17.925497;Si;Si;3;4;A veces;No;2;No;2;0;No;Automovil;Peso_Insuficiente
+Masculino;17.000752;Si;Si;3;3;A veces;No;2;No;2;1;No;Automovil;Peso_Insuficiente
+Masculino;17.362129;Si;Si;2;4;A veces;No;2;No;2;0;No;Automovil;Peso_Insuficiente
+Masculino;18;Si;Si;2;3;A veces;No;2;No;1;2;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;18;Si;Si;1;3;A veces;No;2;No;0;2;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;18;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.029494;No;No;3;3;Frecuentemente;No;1;Si;1;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.269079;No;No;3;3;Frecuentemente;No;1;Si;1;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.946244;No;No;3;3;Frecuentemente;No;2;Si;1;0;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.639431;No;Si;3;1;Frecuentemente;No;1;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19;No;Si;3;1;Frecuentemente;No;1;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Femenino;19.434709;No;Si;3;1;Frecuentemente;No;2;No;0;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;18;Si;Si;1;3;A veces;No;2;No;0;2;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;18.381382;Si;Si;2;3;A veces;No;2;No;1;2;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;18;Si;Si;2;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Peso_Insuficiente
+Masculino;26.69858;No;Si;2;2;A veces;No;2;No;2;1;No;Automovil;Sobrepeso_Nivel_I
+Masculino;21.125836;No;Si;2;1;No;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;25.191627;No;Si;1;4;A veces;No;2;No;0;1;No;Automovil;Sobrepeso_Nivel_I
+Masculino;21.963457;Si;Si;2;4;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21;No;Si;1;3;No;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19.114981;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;41.823567;No;Si;3;3;A veces;No;3;No;3;0;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;21.142432;Si;Si;2;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21.962426;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;18.836315;Si;Si;2;2;A veces;No;2;No;3;1;Frecuentemente;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;23.572648;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;33.700749;Si;No;3;1;A veces;No;1;No;1;0;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;21.845025;Si;Si;2;4;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21;No;Si;2;2;No;No;3;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;35.125401;No;Si;2;2;A veces;No;1;No;0;1;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;36.769646;Si;Si;2;3;A veces;No;3;No;0;0;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;21.868932;Si;Si;3;1;A veces;No;2;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;22.549208;No;Si;2;1;No;No;3;No;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;30.958957;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;21.017383;Si;Si;3;1;A veces;No;2;No;3;0;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;19.623574;Si;Si;3;4;A veces;No;2;No;3;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19.637947;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21.413642;Si;Si;2;3;A veces;No;3;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21.029633;Si;Si;2;4;No;No;3;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;22.667596;Si;Si;2;3;Frecuentemente;No;2;No;0;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;20;Si;Si;3;3;A veces;No;3;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21.81119;Si;Si;2;3;A veces;No;3;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21;Si;Si;3;1;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;18.128206;Si;Si;2;3;A veces;No;2;No;3;0;No;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;29.08107;Si;Si;2;3;A veces;No;2;No;2;0;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;26.358919;Si;Si;2;4;A veces;No;2;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;22.717249;Si;Si;3;3;A veces;No;3;No;1;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19.816949;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;24.023972;No;Si;3;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;32.593129;Si;Si;2;3;A veces;No;1;No;0;1;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;23;Si;Si;3;4;A veces;No;1;No;1;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;16.941489;No;Si;2;1;A veces;No;2;Si;0;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;16.172992;Si;Si;3;1;A veces;No;2;Si;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;23.71259;No;Si;2;3;A veces;No;2;No;2;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;35.194089;Si;No;3;3;A veces;No;2;No;0;0;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;23.172982;Si;Si;2;3;A veces;No;1;No;1;1;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;37.218161;Si;Si;2;3;A veces;No;2;No;3;0;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;19.076443;No;Si;2;1;A veces;No;3;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;16.30687;Si;Si;2;1;A veces;No;2;Si;1;2;No;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;18.297229;Si;Si;2;2;A veces;No;2;No;0;0;No;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;18.610761;No;Si;3;3;A veces;No;1;Si;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;17.451085;Si;Si;3;2;A veces;No;2;Si;0;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;29.740496;No;Si;3;3;A veces;No;1;No;2;0;No;Automovil;Sobrepeso_Nivel_I
+Femenino;31.539393;Si;Si;2;3;A veces;No;1;No;0;1;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;18.026457;Si;Si;2;3;A veces;No;2;No;0;0;No;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19.47554;Si;Si;2;4;A veces;No;2;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;19;Si;Si;2;1;A veces;No;3;No;2;2;Frecuentemente;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;18;Si;Si;2;1;A veces;No;1;No;0;2;No;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;18.270434;Si;Si;3;3;A veces;No;2;No;1;1;Frecuentemente;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;19.816228;No;Si;3;3;A veces;No;2;Si;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;28.39124;No;Si;3;3;A veces;No;1;No;2;0;No;Automovil;Sobrepeso_Nivel_I
+Masculino;26.758516;No;Si;3;2;A veces;No;2;No;2;0;No;Automovil;Sobrepeso_Nivel_I
+Masculino;21.033794;No;Si;2;1;No;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;22.429812;No;Si;2;1;No;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;26.650419;No;Si;1;4;A veces;No;2;No;0;1;No;Automovil;Sobrepeso_Nivel_I
+Masculino;21.618246;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21.012542;Si;Si;2;4;No;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21.071195;Si;Si;1;4;No;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19.741202;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19.21638;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;42.24475;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;22.283082;Si;Si;2;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21.086512;Si;Si;2;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;23.451595;Si;Si;2;3;A veces;No;2;No;0;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;22.740275;Si;Si;2;3;A veces;No;2;No;0;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;18.900253;Si;Si;2;2;A veces;No;2;No;1;1;Frecuentemente;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;23.170309;Si;Si;2;3;A veces;No;1;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;32.997118;Si;Si;3;1;A veces;No;1;No;0;0;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;32.501143;Si;Si;2;2;A veces;No;1;No;0;0;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;21.938831;Si;Si;2;4;A veces;No;3;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21.909534;Si;Si;2;4;A veces;No;3;No;1;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;37.455752;Si;Si;2;1;A veces;No;2;No;0;0;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;40;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;38.943282;Si;Si;3;3;A veces;No;3;No;2;0;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;21.987341;Si;Si;2;1;A veces;No;2;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21.198217;Si;Si;3;1;A veces;No;2;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;29.32038;Si;Si;2;3;A veces;No;2;No;2;0;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;31.255587;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;22.851773;Si;Si;3;1;A veces;No;2;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;26;Si;Si;2;1;A veces;No;2;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19.789291;Si;Si;3;3;A veces;No;3;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19.895877;Si;Si;3;3;A veces;No;3;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19.693804;Si;Si;2;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19.226314;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21.652229;Si;Si;2;4;A veces;No;2;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21.687409;Si;Si;2;3;No;No;3;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21.455463;Si;Si;2;4;No;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21;Si;Si;2;2;A veces;No;2;No;0;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21;Si;Si;3;2;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19.337404;Si;Si;2;4;A veces;No;2;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21.701643;Si;Si;2;4;A veces;No;3;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21.620245;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21.012569;Si;Si;3;1;A veces;No;2;No;3;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21.016623;Si;Si;3;1;A veces;No;2;No;3;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;19;Si;Si;1;1;A veces;No;3;No;3;1;No;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21;Si;Si;2;3;A veces;No;1;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21;Si;Si;2;3;A veces;No;1;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;27.899784;Si;Si;2;3;A veces;No;2;No;2;0;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;28.825223;Si;Si;1;4;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;26.047077;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;23;Si;Si;3;3;A veces;No;3;No;1;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;20;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21.832995;No;Si;2;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;30.255744;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;30.613586;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;23.245408;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;18;No;Si;2;3;A veces;No;1;Si;0;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;18;No;Si;2;3;A veces;No;1;Si;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;16.950499;Si;Si;3;1;A veces;No;2;Si;1;1;No;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21.837058;No;Si;3;2;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;27;No;Si;2;2;A veces;No;1;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;35.483601;Si;No;3;3;A veces;No;2;No;1;0;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;23.801436;Si;Si;2;2;A veces;No;2;No;1;1;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;23.367212;Si;Si;2;1;A veces;No;1;No;1;1;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;40;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;16.38009;Si;Si;3;1;A veces;No;2;No;1;2;No;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;16.865984;Si;Si;1;1;A veces;No;1;Si;0;0;No;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;16.093234;Si;Si;1;1;A veces;No;2;Si;0;1;No;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;18;Si;Si;2;1;A veces;No;2;No;0;1;No;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;18.83919;Si;Si;2;3;A veces;No;2;No;1;0;No;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;19.726522;No;Si;3;3;A veces;No;2;Si;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;18.947102;No;Si;3;3;A veces;No;1;Si;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;17.781183;Si;Si;3;3;A veces;No;2;Si;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;33.100581;No;Si;3;3;A veces;No;2;No;2;1;No;Automovil;Sobrepeso_Nivel_I
+Femenino;33.251015;Si;Si;2;3;A veces;No;1;No;1;0;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;18.985119;Si;Si;2;1;A veces;No;3;No;3;1;No;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;18.871917;Si;Si;2;1;A veces;No;2;No;3;1;No;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19.478533;Si;Si;2;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19.429723;Si;Si;3;4;A veces;No;2;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;20.979254;Si;Si;2;3;A veces;No;3;No;0;2;Frecuentemente;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;18.869151;Si;Si;2;3;A veces;No;3;No;2;1;Frecuentemente;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;18.236087;Si;Si;2;1;A veces;No;2;No;0;2;No;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;20.901393;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;17.08525;No;Si;2;2;A veces;No;2;Si;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;25.785925;No;Si;2;2;A veces;No;2;No;2;1;No;Automovil;Sobrepeso_Nivel_I
+Masculino;26.787842;No;Si;3;3;A veces;No;1;No;2;0;No;Automovil;Sobrepeso_Nivel_I
+Masculino;21.037514;No;Si;2;1;No;No;3;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21.00829;No;Si;2;1;No;No;3;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;26.70371;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;21.731497;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21.052894;Si;Si;2;4;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21;Si;Si;1;3;No;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19.241058;Si;Si;2;4;A veces;No;2;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;38.939448;No;Si;3;3;A veces;No;1;No;3;0;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;39.965474;No;Si;2;3;A veces;No;1;No;0;1;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;20.261925;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;20.31094;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21.420537;Si;Si;2;3;A veces;No;1;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;18.845518;Si;Si;2;1;A veces;No;3;No;3;1;No;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;23.562135;Si;Si;2;3;A veces;No;2;No;0;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;23.118327;Si;Si;2;3;A veces;No;2;No;0;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;33.732714;Si;Si;3;1;A veces;No;1;No;0;0;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;21.571288;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21.165574;Si;Si;1;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21;No;Si;2;3;No;No;3;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21;No;Si;2;1;No;No;3;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;38.692265;Si;Si;3;3;A veces;No;3;No;0;1;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;38.952866;Si;Si;2;3;A veces;No;3;No;0;1;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;36.631456;Si;Si;2;3;A veces;No;3;No;0;1;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;21.996118;Si;Si;2;1;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21.951309;Si;Si;2;1;A veces;No;2;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;22.018228;No;Si;2;1;No;No;3;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;29.934465;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;31.166572;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;20.534606;Si;Si;3;1;A veces;No;3;No;3;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19.97166;Si;Si;3;3;A veces;No;3;No;3;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19.627;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21.929387;Si;Si;2;3;A veces;No;3;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21.009437;Si;Si;2;3;No;No;3;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21.538225;Si;Si;2;4;No;No;3;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;22.828435;Si;Si;3;3;A veces;No;3;No;1;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;22.814657;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19.576682;Si;Si;2;4;A veces;No;3;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21.814653;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21.979769;Si;Si;2;3;A veces;No;2;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21;Si;Si;2;2;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;21.0285;Si;Si;3;1;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;18.721041;Si;Si;2;3;A veces;No;2;No;3;1;No;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21;Si;Si;2;3;A veces;No;1;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;29.463168;Si;Si;2;3;A veces;No;1;No;2;0;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;24.284861;Si;Si;2;3;A veces;No;2;No;1;1;No;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;26.288417;Si;Si;2;3;A veces;No;2;No;1;1;No;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;23.455324;Si;Si;2;3;A veces;No;2;No;1;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19.637203;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;22.239836;No;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;31.62638;Si;Si;2;3;A veces;No;1;No;0;1;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;23;Si;Si;3;3;A veces;No;3;No;1;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;22.874658;Si;Si;3;4;A veces;No;1;No;0;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;17.420269;No;Si;2;2;A veces;No;2;Si;0;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;17.807828;No;Si;2;2;A veces;No;1;Si;0;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;16.240576;Si;Si;2;1;A veces;No;1;Si;0;1;No;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;23.252457;No;Si;2;3;A veces;No;3;No;2;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;34.772902;Si;Si;3;2;A veces;No;2;No;0;0;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;22.766227;Si;Si;2;3;A veces;No;1;No;0;1;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;39.214514;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;19.858973;No;Si;2;1;No;No;3;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;16.370009;Si;Si;2;1;A veces;No;2;Si;1;2;No;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;17.992717;Si;Si;2;1;A veces;No;1;Si;1;2;No;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19.179932;Si;Si;2;1;A veces;No;2;No;1;0;No;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;19.621545;No;Si;3;3;A veces;No;2;Si;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;19.755797;No;Si;3;3;A veces;No;2;Si;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;17.099015;Si;Si;3;2;A veces;No;2;Si;1;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;17.25813;Si;Si;3;2;A veces;No;2;Si;1;2;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;29.153907;No;Si;2;4;A veces;No;1;No;2;0;No;Automovil;Sobrepeso_Nivel_I
+Femenino;32.278869;Si;Si;3;3;A veces;No;1;No;1;1;A veces;Automovil;Sobrepeso_Nivel_I
+Femenino;31.793937;Si;Si;2;3;A veces;No;1;No;1;0;A veces;Automovil;Sobrepeso_Nivel_I
+Masculino;18.014333;Si;Si;2;3;A veces;No;2;No;0;0;Frecuentemente;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19.685;Si;Si;2;4;A veces;No;3;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;19.506389;Si;Si;3;4;A veces;No;2;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;19;Si;Si;2;2;A veces;No;3;No;1;2;No;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;18;Si;Si;2;1;A veces;No;1;No;0;2;No;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;18.003153;Si;Si;3;3;A veces;No;2;No;1;1;Frecuentemente;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;18.052394;Si;Si;3;3;A veces;No;2;No;1;1;Frecuentemente;Transporte_Publico;Sobrepeso_Nivel_I
+Femenino;19.774317;No;Si;3;3;A veces;No;2;Si;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_I
+Masculino;21.180346;Si;Si;2;1;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;21.793724;Si;Si;2;2;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;20.880161;Si;Si;2;3;A veces;No;2;No;2;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;21.18354;Si;Si;2;2;A veces;No;2;No;2;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;32.774488;Si;Si;2;2;A veces;No;2;No;1;0;A veces;Caminando;Sobrepeso_Nivel_II
+Masculino;31.327609;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Sobrepeso_Nivel_II
+Masculino;29.956198;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Automovil;Sobrepeso_Nivel_II
+Masculino;21.403421;Si;Si;2;3;A veces;No;2;No;3;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;22.591439;Si;Si;2;3;A veces;No;2;No;0;2;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;28.583944;Si;No;2;2;A veces;No;2;No;2;2;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;38.825189;Si;Si;3;1;A veces;No;3;No;1;1;A veces;Automovil;Sobrepeso_Nivel_II
+Masculino;35.217173;Si;Si;2;3;A veces;No;1;No;1;1;A veces;Automovil;Sobrepeso_Nivel_II
+Femenino;20.392665;Si;No;2;3;A veces;No;2;No;2;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;22.154854;Si;No;2;3;A veces;No;1;No;0;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;19.108796;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;20.70768;Si;No;2;3;A veces;No;2;No;1;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;20.634694;Si;No;3;3;A veces;No;1;No;0;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;22.052152;Si;Si;2;2;A veces;No;2;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;22.869778;Si;Si;2;2;A veces;No;2;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;22.909992;Si;Si;2;3;A veces;No;2;No;1;2;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;23;Si;Si;2;2;A veces;No;1;No;1;2;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;24.679807;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;23.884212;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;25.461411;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;31.333798;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;24.108711;Si;Si;2;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;28.830558;Si;Si;3;3;A veces;No;2;No;2;1;Frecuentemente;Automovil;Sobrepeso_Nivel_II
+Masculino;17.570089;Si;No;2;3;A veces;No;2;No;1;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;19.027574;Si;Si;2;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;25.632447;Si;Si;1;2;A veces;No;2;No;2;2;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;22.94313;Si;Si;2;1;A veces;No;2;No;0;2;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;23.285553;Si;Si;3;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;23;Si;Si;2;3;A veces;No;1;No;0;2;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;25.19291;Si;Si;3;3;A veces;No;2;No;1;1;Frecuentemente;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;34.389906;Si;Si;2;2;A veces;No;2;No;1;0;No;Automovil;Sobrepeso_Nivel_II
+Femenino;26.595893;Si;Si;2;3;A veces;No;2;No;0;0;Frecuentemente;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;55.24625;No;Si;2;3;A veces;No;2;No;1;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;34.543563;Si;Si;3;3;A veces;No;3;No;2;1;No;Automovil;Sobrepeso_Nivel_II
+Masculino;21.808159;Si;Si;2;3;A veces;No;2;No;1;2;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;18.118277;Si;Si;3;2;A veces;No;2;No;1;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;42.189023;Si;Si;2;3;A veces;No;1;No;0;1;No;Automovil;Sobrepeso_Nivel_II
+Masculino;22;Si;Si;2;2;A veces;No;2;No;3;2;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;28.770852;Si;No;2;1;A veces;No;1;No;0;0;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;25.483381;Si;No;2;1;A veces;No;1;No;1;0;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;21.67315;Si;No;2;1;A veces;No;2;No;0;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;23.469538;Si;No;2;4;A veces;No;2;No;1;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;23;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;23;Si;Si;2;2;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;38.464538;Si;Si;3;3;A veces;No;3;No;0;0;No;Automovil;Sobrepeso_Nivel_II
+Femenino;37.496175;Si;Si;2;3;A veces;No;2;No;0;2;No;Automovil;Sobrepeso_Nivel_II
+Femenino;33.690239;Si;Si;3;3;A veces;No;2;No;2;1;No;Automovil;Sobrepeso_Nivel_II
+Femenino;34.369686;Si;Si;3;2;A veces;No;2;No;1;1;No;Automovil;Sobrepeso_Nivel_II
+Masculino;31.426573;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Automovil;Sobrepeso_Nivel_II
+Masculino;34.288249;Si;Si;2;2;A veces;No;3;No;1;0;A veces;Automovil;Sobrepeso_Nivel_II
+Femenino;18.863875;Si;No;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;18.951144;Si;No;3;4;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;19.671876;Si;No;2;2;A veces;No;3;No;0;0;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;50.832559;Si;Si;2;3;A veces;No;2;No;1;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;17.971574;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;18;Si;Si;3;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;18.701766;Si;Si;3;1;A veces;No;2;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;34.389679;Si;Si;3;2;A veces;No;2;No;0;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;17.178483;Si;Si;2;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;33.0816;Si;Si;2;3;A veces;No;3;No;2;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;33.270448;Si;Si;3;3;A veces;No;2;No;3;1;No;Automovil;Sobrepeso_Nivel_II
+Femenino;36.310292;Si;Si;2;1;A veces;No;2;No;1;0;No;Automovil;Sobrepeso_Nivel_II
+Femenino;20;Si;No;3;1;A veces;No;2;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;18.549437;Si;No;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;34.243146;Si;Si;2;2;A veces;No;3;No;1;0;A veces;Automovil;Sobrepeso_Nivel_II
+Masculino;23.32012;Si;Si;3;2;A veces;No;3;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;19.703095;Si;No;2;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;19.223259;Si;No;2;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;29.695603;Si;Si;2;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;27;Si;Si;3;1;A veces;No;1;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;21.027662;Si;Si;2;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;33.015258;Si;Si;2;3;A veces;No;2;No;1;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;18;Si;No;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;30.553097;Si;Si;2;1;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;33;Si;Si;2;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;24.911994;Si;Si;1;2;A veces;No;2;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;24.444846;Si;Si;2;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;19.911246;Si;No;2;4;A veces;No;1;No;1;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;34.204408;Si;Si;2;3;A veces;No;3;No;0;2;No;Automovil;Sobrepeso_Nivel_II
+Femenino;34.281681;Si;Si;3;2;A veces;No;2;No;1;1;No;Automovil;Sobrepeso_Nivel_II
+Masculino;23.384374;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;43.238402;Si;Si;2;2;A veces;No;2;No;1;0;No;Automovil;Sobrepeso_Nivel_II
+Femenino;45;Si;Si;3;3;A veces;No;1;No;0;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;22.087389;Si;Si;2;2;A veces;No;2;No;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;21.378039;Si;Si;2;3;A veces;No;2;No;3;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;31.398281;Si;Si;2;1;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;31.484494;Si;Si;3;3;A veces;No;1;No;0;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;21.709159;Si;Si;2;3;A veces;No;2;No;3;2;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;30.711381;Si;No;2;3;A veces;No;2;No;1;0;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;34.821442;Si;Si;2;2;A veces;No;2;No;0;0;A veces;Automovil;Sobrepeso_Nivel_II
+Femenino;20.843363;Si;No;2;3;A veces;No;2;No;1;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;19.443639;Si;Si;2;3;A veces;No;3;No;3;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;20.492077;Si;No;2;3;A veces;No;1;No;2;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;22.944349;Si;Si;1;2;A veces;No;2;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;23;Si;Si;2;3;A veces;No;2;No;0;2;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;24.06894;Si;Si;2;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;23.728707;Si;Si;2;3;A veces;No;2;No;0;0;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;29.216019;Si;Si;2;2;A veces;No;2;No;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;24.751511;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;28.977792;Si;Si;3;3;A veces;No;2;No;2;1;Frecuentemente;Automovil;Sobrepeso_Nivel_II
+Masculino;17.441593;Si;No;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;19.126145;Si;No;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;24.122589;Si;Si;1;2;A veces;No;2;No;1;2;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;23;Si;Si;2;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;28.824194;Si;Si;3;3;A veces;No;2;No;1;1;Frecuentemente;Automovil;Sobrepeso_Nivel_II
+Masculino;34.204611;Si;Si;2;3;A veces;No;3;No;2;0;No;Automovil;Sobrepeso_Nivel_II
+Femenino;28.167799;Si;Si;3;2;A veces;No;2;No;1;0;Frecuentemente;Automovil;Sobrepeso_Nivel_II
+Masculino;55.137881;Si;Si;2;3;A veces;No;2;No;1;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;34.970367;Si;Si;3;3;A veces;No;3;No;2;1;No;Automovil;Sobrepeso_Nivel_II
+Masculino;20.986834;Si;Si;2;3;A veces;No;2;No;2;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;38.378056;Si;Si;2;3;A veces;No;1;No;0;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;22.18881;Si;Si;2;1;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;21.082384;Si;No;2;1;A veces;No;1;No;0;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;25.293202;Si;No;2;1;A veces;No;2;No;0;0;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;23;Si;Si;2;2;A veces;No;1;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;39.170029;Si;Si;3;3;A veces;No;3;No;0;0;No;Automovil;Sobrepeso_Nivel_II
+Femenino;34.044229;Si;Si;3;1;A veces;No;2;No;1;1;No;Automovil;Sobrepeso_Nivel_II
+Masculino;33.182127;Si;Si;2;2;A veces;No;3;No;1;0;A veces;Automovil;Sobrepeso_Nivel_II
+Femenino;19.821996;Si;No;3;2;A veces;No;3;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;19.149706;Si;No;1;2;A veces;No;2;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;46.491859;Si;Si;2;3;A veces;No;2;No;1;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;17.894784;Si;No;2;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;18.88485;Si;No;3;2;A veces;No;1;No;0;0;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;38.384177;Si;Si;3;3;A veces;No;3;No;0;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;22.675679;Si;Si;2;3;A veces;No;2;No;2;2;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;33.049121;Si;Si;2;1;A veces;No;2;No;2;0;No;Automovil;Sobrepeso_Nivel_II
+Femenino;37.205173;Si;Si;2;3;A veces;No;2;No;0;1;No;Automovil;Sobrepeso_Nivel_II
+Femenino;19.027417;Si;No;3;3;A veces;No;2;No;3;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;37.492444;Si;Si;2;2;A veces;No;3;No;1;0;A veces;Automovil;Sobrepeso_Nivel_II
+Masculino;24.657598;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;18.011718;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;27.349745;Si;Si;3;1;A veces;No;2;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;18;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;33.009285;Si;Si;2;3;A veces;No;2;No;1;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;18;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;30.079371;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;25.035915;Si;Si;2;1;A veces;No;2;No;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;18.198322;Si;No;3;3;A veces;No;2;No;1;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;35.456326;Si;Si;2;3;A veces;No;1;No;1;2;No;Automovil;Sobrepeso_Nivel_II
+Masculino;23.806789;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;39.392569;Si;Si;3;1;A veces;No;2;No;1;1;No;Automovil;Sobrepeso_Nivel_II
+Masculino;21.384259;Si;Si;2;1;A veces;No;2;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;22.730414;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;21.20563;Si;Si;2;3;A veces;No;2;No;3;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;21.333429;Si;Si;2;3;A veces;No;2;No;3;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;32.787101;Si;Si;2;2;A veces;No;2;No;1;0;A veces;Automovil;Sobrepeso_Nivel_II
+Masculino;32.610018;Si;Si;2;3;A veces;No;2;No;0;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;30.022598;Si;Si;2;3;A veces;No;2;No;1;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;21.123048;Si;Si;2;3;A veces;No;2;No;2;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;22.989846;Si;Si;2;3;A veces;No;2;No;0;2;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;24.320154;Si;No;2;3;A veces;No;2;No;1;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;37.275298;Si;Si;3;1;A veces;No;2;No;1;1;No;Automovil;Sobrepeso_Nivel_II
+Masculino;34.098174;Si;Si;2;3;A veces;No;1;No;1;1;A veces;Automovil;Sobrepeso_Nivel_II
+Femenino;21.001282;Si;No;2;2;A veces;No;2;No;2;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;21.95994;Si;No;2;2;A veces;No;2;No;0;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;19.795269;Si;Si;2;3;A veces;No;3;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;19.090023;Si;No;3;3;A veces;No;2;No;1;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;20.820455;Si;No;2;3;A veces;No;1;No;2;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;22.087056;Si;Si;2;3;A veces;No;1;No;0;2;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;22.185756;Si;Si;2;2;A veces;No;2;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;22.980957;Si;Si;2;3;A veces;No;2;No;0;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;23;Si;Si;2;2;A veces;No;1;No;1;2;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;24.190896;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;23.94003;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;26.591628;Si;Si;3;3;A veces;No;3;No;1;1;Frecuentemente;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;31.264628;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;23.629159;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;26.208134;Si;Si;3;3;A veces;No;2;No;1;1;Frecuentemente;Automovil;Sobrepeso_Nivel_II
+Masculino;17.689057;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;19.16097;Si;No;2;1;A veces;No;3;No;0;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;25.45763;Si;Si;1;3;A veces;No;2;No;1;2;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;22.988004;Si;Si;2;2;A veces;No;2;No;0;2;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;23.603191;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;22.882558;Si;Si;2;2;A veces;No;1;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;23.586058;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;34.432669;Si;Si;2;3;A veces;No;3;No;1;0;No;Automovil;Sobrepeso_Nivel_II
+Femenino;25.472995;Si;Si;2;3;A veces;No;2;No;0;1;Frecuentemente;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;55.022494;Si;Si;2;3;A veces;No;2;No;1;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;34.647036;Si;Si;3;3;A veces;No;3;No;2;1;No;Automovil;Sobrepeso_Nivel_II
+Masculino;21.997335;Si;Si;2;3;A veces;No;2;No;1;2;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;18.181821;Si;No;2;2;A veces;No;2;No;1;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;41.743333;Si;Si;3;3;A veces;No;1;No;0;1;No;Automovil;Sobrepeso_Nivel_II
+Masculino;21.473078;Si;Si;2;3;A veces;No;2;No;3;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;27.757187;Si;No;2;1;A veces;No;1;No;0;0;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;25.113537;Si;No;2;1;A veces;No;2;No;1;0;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;21.82165;Si;No;2;1;A veces;No;2;No;0;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;20.670975;Si;No;2;3;A veces;No;2;No;1;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;22.649792;Si;Si;2;3;A veces;No;2;No;0;2;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;23.154311;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;38.097395;Si;Si;3;3;A veces;No;2;No;0;0;No;Automovil;Sobrepeso_Nivel_II
+Femenino;37.642177;Si;Si;3;3;A veces;No;2;No;0;1;No;Automovil;Sobrepeso_Nivel_II
+Femenino;34.176795;Si;Si;3;2;A veces;No;2;No;1;1;No;Automovil;Sobrepeso_Nivel_II
+Femenino;34.231083;Si;Si;2;2;A veces;No;2;No;0;1;No;Automovil;Sobrepeso_Nivel_II
+Masculino;31.965402;Si;Si;2;2;A veces;No;3;No;1;0;A veces;Automovil;Sobrepeso_Nivel_II
+Masculino;33.185661;Si;Si;2;2;A veces;No;3;No;1;0;A veces;Automovil;Sobrepeso_Nivel_II
+Femenino;18.741188;Si;No;3;3;A veces;No;2;No;2;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;19.955257;Si;No;3;4;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;19.684891;Si;No;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;47.7061;Si;Si;3;3;A veces;No;1;No;0;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;17.997009;Si;No;2;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;17.971786;Si;Si;3;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;20.432717;Si;Si;2;2;A veces;No;2;No;2;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;33.954433;Si;Si;3;2;A veces;No;2;No;2;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;17.039058;Si;Si;2;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;33.070142;Si;Si;2;1;A veces;No;2;No;3;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;34.993835;Si;Si;3;3;A veces;No;3;No;3;1;No;Automovil;Sobrepeso_Nivel_II
+Masculino;35.719457;Si;Si;2;1;A veces;No;2;No;1;0;No;Automovil;Sobrepeso_Nivel_II
+Femenino;19.005725;Si;No;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;18.850466;Si;No;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;31.540751;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Automovil;Sobrepeso_Nivel_II
+Masculino;23.335391;Si;Si;3;3;A veces;No;3;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;19.749627;Si;No;2;3;A veces;No;2;No;1;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;19.565496;Si;No;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;30.357745;Si;Si;2;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;27;Si;Si;3;1;A veces;No;1;No;2;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;21.380336;Si;Si;2;2;A veces;No;2;No;2;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;33.151905;Si;Si;2;2;A veces;No;2;No;1;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;18;Si;Si;3;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;32.241587;Si;Si;2;2;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;31.662814;Si;Si;2;3;A veces;No;3;No;1;1;A veces;Automovil;Sobrepeso_Nivel_II
+Masculino;24.347414;Si;Si;2;2;A veces;No;2;No;0;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;24.362124;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;19.462713;Si;No;3;3;A veces;No;1;No;1;1;No;Transporte_Publico;Sobrepeso_Nivel_II
+Femenino;35.432059;Si;Si;2;3;A veces;No;2;No;0;2;No;Automovil;Sobrepeso_Nivel_II
+Femenino;33.864257;Si;Si;3;2;A veces;No;2;No;1;1;No;Automovil;Sobrepeso_Nivel_II
+Masculino;23.807181;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Sobrepeso_Nivel_II
+Masculino;39.585811;Si;Si;2;1;A veces;No;2;No;1;0;No;Automovil;Sobrepeso_Nivel_II
+Femenino;45.821267;Si;Si;2;3;A veces;No;1;No;1;0;No;Automovil;Sobrepeso_Nivel_II
+Masculino;25.929746;Si;Si;3;3;A veces;No;2;No;2;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;26.042738;Si;Si;3;3;A veces;No;3;No;2;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;30.551762;Si;Si;2;3;A veces;No;2;No;2;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;39.759575;Si;Si;2;2;A veces;No;3;No;3;1;A veces;Automovil;Obesidad_Tipo_I
+Femenino;31.386405;Si;Si;2;2;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;25.706285;Si;Si;2;1;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;43.604901;Si;Si;3;1;A veces;No;2;No;1;0;No;Automovil;Obesidad_Tipo_I
+Femenino;42.31607;Si;Si;2;3;A veces;No;2;No;0;0;No;Automovil;Obesidad_Tipo_I
+Femenino;22.654316;Si;Si;1;1;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;22.679935;Si;Si;3;1;A veces;No;3;No;0;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;24.079524;Si;Si;2;3;A veces;No;3;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.196152;Si;Si;2;1;A veces;No;3;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;22.596576;Si;Si;3;1;A veces;No;3;No;0;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;23;Si;Si;2;3;A veces;No;3;No;2;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;37.356288;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;22.754646;Si;Si;2;3;A veces;No;2;No;3;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;23.252906;Si;Si;2;3;A veces;No;3;No;3;2;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;22.025438;Si;Si;3;1;A veces;No;3;No;1;2;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;18.086772;Si;Si;3;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;25.994393;Si;Si;3;3;A veces;No;2;No;2;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;40.821515;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;23;Si;Si;2;3;A veces;No;2;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;37.955371;Si;Si;3;1;A veces;No;1;No;2;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;31.315593;Si;Si;2;2;A veces;No;2;No;2;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;22.661556;Si;Si;2;3;A veces;No;2;No;0;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;40.317787;Si;Si;2;3;A veces;No;3;No;2;1;A veces;Automovil;Obesidad_Tipo_I
+Masculino;23.365649;Si;Si;2;3;A veces;No;3;No;3;2;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.72127;Si;Si;2;3;A veces;No;2;No;3;2;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;35.389491;Si;Si;2;1;A veces;No;3;No;2;0;Frecuentemente;Automovil;Obesidad_Tipo_I
+Femenino;22.061461;Si;Si;1;3;A veces;No;2;No;2;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;23;Si;Si;2;3;A veces;No;2;No;2;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;23;Si;Si;3;1;A veces;No;3;No;0;2;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;40.951591;Si;Si;2;1;A veces;No;1;No;2;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;39.135634;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;26.271621;Si;Si;2;3;A veces;No;3;No;1;1;A veces;Automovil;Obesidad_Tipo_I
+Femenino;23.779235;Si;Si;2;1;A veces;No;2;No;1;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;20.586978;Si;Si;2;3;A veces;No;2;No;1;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.669478;Si;Si;2;3;A veces;No;3;No;2;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;23;Si;Si;2;1;A veces;No;2;No;0;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;20.825962;Si;Si;2;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;18.178023;Si;Si;2;2;A veces;No;2;No;1;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;18;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;18.267696;Si;Si;2;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;23;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;23;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;20.9859;Si;Si;2;3;A veces;No;2;No;0;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.504943;Si;Si;2;3;A veces;No;3;No;0;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;18;Si;Si;2;1;A veces;No;2;No;1;2;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;18;Si;Si;2;1;A veces;No;2;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;19.442663;Si;Si;1;3;A veces;No;1;No;0;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;22.865018;Si;Si;3;1;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.948577;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.214617;Si;Si;2;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;22.277859;Si;Si;2;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;37.832949;Si;Si;2;2;A veces;No;2;No;2;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;37.631769;Si;Si;2;3;A veces;No;2;No;2;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;17.6739;Si;Si;2;3;A veces;No;2;No;0;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;37.524551;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;43.510672;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;18;Si;Si;2;2;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;18;Si;Si;2;2;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;29.506287;Si;Si;2;3;A veces;No;2;No;1;2;A veces;Automovil;Obesidad_Tipo_I
+Femenino;18;Si;Si;3;3;A veces;No;2;No;1;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;24.733308;Si;Si;1;3;A veces;No;1;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;29;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;18;Si;Si;2;3;A veces;No;1;No;1;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.098035;Si;Si;2;3;A veces;No;2;No;0;2;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;19.089595;Si;Si;2;2;A veces;No;2;No;0;2;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;18.312665;Si;Si;3;3;A veces;No;1;No;0;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;18.260079;Si;Si;2;3;A veces;No;3;No;2;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;26.004294;Si;Si;3;3;A veces;No;3;No;2;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;25.994746;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;36.726617;Si;Si;2;3;A veces;No;3;No;2;0;Frecuentemente;Automovil;Obesidad_Tipo_I
+Masculino;38.297259;Si;Si;2;2;A veces;No;2;No;2;1;Frecuentemente;Automovil;Obesidad_Tipo_I
+Femenino;30.163408;Si;Si;2;2;A veces;No;2;No;0;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;28.770039;Si;Si;2;1;A veces;No;2;No;0;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;42.337283;Si;Si;3;2;A veces;No;2;No;0;0;No;Automovil;Obesidad_Tipo_I
+Femenino;47.283374;Si;Si;2;1;A veces;No;2;No;0;0;No;Automovil;Obesidad_Tipo_I
+Femenino;22.518787;Si;Si;2;1;A veces;No;2;No;0;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;22.836315;Si;Si;1;1;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;23;Si;Si;2;3;A veces;No;1;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;22.975526;Si;Si;2;3;A veces;No;2;No;2;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;22.720449;Si;Si;2;3;A veces;No;3;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;23.887569;Si;Si;2;3;A veces;No;3;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;23;Si;Si;2;3;A veces;No;2;No;0;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;23;Si;Si;2;3;A veces;No;2;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;38.148845;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;37.96543;Si;Si;3;1;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;22.771612;Si;Si;2;3;A veces;No;3;No;3;2;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;22.582371;Si;Si;2;3;A veces;No;3;No;3;2;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;21.008051;Si;Si;2;1;A veces;No;3;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;22.591026;Si;Si;3;1;A veces;No;3;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;16.129279;Si;Si;3;3;A veces;No;1;No;2;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;16.913841;Si;Si;2;3;A veces;No;1;No;2;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;29.43879;Si;Si;3;3;A veces;No;1;No;2;2;A veces;Automovil;Obesidad_Tipo_I
+Masculino;29.881301;Si;Si;3;3;A veces;No;1;No;2;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;43.591999;Si;Si;2;3;A veces;No;2;No;0;0;No;Automovil;Obesidad_Tipo_I
+Femenino;40.993179;Si;Si;2;3;A veces;No;3;No;0;0;No;Automovil;Obesidad_Tipo_I
+Masculino;22.936098;Si;Si;2;3;A veces;No;2;No;0;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;23;Si;Si;2;3;A veces;No;1;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;37.597953;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;37.532066;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;31.630054;Si;Si;2;2;A veces;No;2;No;2;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;31.641081;Si;Si;3;2;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;21.872484;Si;Si;2;3;A veces;No;2;No;0;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.834894;Si;Si;2;3;A veces;No;2;No;0;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;36.023972;Si;Si;3;2;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;39.656559;Si;Si;2;2;A veces;No;3;No;1;1;A veces;Automovil;Obesidad_Tipo_I
+Masculino;24.184891;Si;Si;2;3;A veces;No;3;No;2;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;23.237302;Si;Si;2;3;A veces;No;3;No;2;2;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;35.322112;Si;Si;3;1;A veces;No;3;No;3;1;A veces;Automovil;Obesidad_Tipo_I
+Masculino;31.387982;Si;Si;2;2;A veces;No;3;No;1;2;A veces;Automovil;Obesidad_Tipo_I
+Femenino;23;Si;Si;2;3;A veces;No;3;No;2;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;23;Si;Si;3;2;A veces;No;3;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;22.679454;Si;Si;2;1;A veces;No;2;No;1;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;22.480889;Si;Si;2;1;A veces;No;2;No;0;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;41.403862;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;40.702771;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;29.389239;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;30.967417;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;23.474165;Si;Si;2;1;A veces;No;2;No;1;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;24.317607;Si;Si;2;1;A veces;No;2;No;1;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;17.052914;Si;Si;2;3;A veces;No;2;No;0;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;18.04892;Si;Si;2;3;A veces;No;2;No;2;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;22.875223;Si;Si;2;1;A veces;No;2;No;0;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;22.884722;Si;Si;2;1;A veces;No;2;No;0;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;18.729566;Si;Si;2;2;A veces;No;3;No;1;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.011124;Si;Si;2;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;18.603496;Si;Si;2;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;21.106056;Si;Si;1;3;A veces;No;1;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;23;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.980847;Si;Si;2;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.016665;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.72738;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;18;Si;Si;2;2;A veces;No;2;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;18;Si;Si;2;2;A veces;No;2;No;1;2;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;19.431662;Si;Si;3;3;A veces;No;1;No;0;2;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;18.166318;Si;Si;3;3;A veces;No;2;No;1;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;22.352025;Si;Si;3;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;22.469351;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;19.524698;Si;Si;2;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;20.491475;Si;Si;2;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;39.213399;Si;Si;2;1;A veces;No;2;No;2;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;38.098745;Si;Si;2;1;A veces;No;2;No;2;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;19.034033;Si;Si;2;2;A veces;No;2;No;0;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;17.073648;Si;Si;2;3;A veces;No;2;No;2;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;38.547267;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;38.683794;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;18;Si;Si;2;2;A veces;No;3;No;1;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;18;Si;Si;2;2;A veces;No;3;No;1;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;29.622804;Si;Si;2;2;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;30.79626;Si;Si;2;2;A veces;No;1;No;2;1;A veces;Automovil;Obesidad_Tipo_I
+Femenino;18;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;18.107092;Si;Si;2;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;31.335093;Si;Si;2;1;A veces;No;1;No;1;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;29;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;18.011903;Si;Si;3;3;A veces;No;1;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;18;Si;Si;2;3;A veces;No;1;No;1;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.077356;Si;Si;2;2;A veces;No;2;No;0;2;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.052016;Si;Si;2;2;A veces;No;2;No;0;2;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;18.078256;Si;Si;2;3;A veces;No;2;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;18.063582;Si;Si;3;3;A veces;No;1;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;20.418832;Si;Si;2;3;A veces;No;3;No;2;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;20.580984;Si;Si;2;3;A veces;No;2;No;3;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;26.032416;Si;Si;3;3;A veces;No;2;No;2;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;25.955361;Si;Si;3;3;A veces;No;2;No;2;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;26.015448;Si;Si;3;3;A veces;No;2;No;2;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;25.920738;Si;Si;3;3;A veces;No;2;No;1;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;29.633715;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Automovil;Obesidad_Tipo_I
+Masculino;32.895637;Si;Si;3;2;A veces;No;3;No;2;1;A veces;Automovil;Obesidad_Tipo_I
+Masculino;38.748307;Si;Si;3;2;A veces;No;3;No;3;1;Frecuentemente;Automovil;Obesidad_Tipo_I
+Masculino;39.685846;Si;Si;2;2;A veces;No;3;No;2;1;Frecuentemente;Automovil;Obesidad_Tipo_I
+Femenino;33.226808;Si;Si;2;2;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;26.220065;Si;Si;2;1;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;23.090215;Si;Si;2;1;A veces;No;2;No;0;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;24.565628;Si;Si;2;1;A veces;No;2;No;0;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;42.586285;Si;Si;3;1;A veces;No;2;No;1;0;No;Automovil;Obesidad_Tipo_I
+Femenino;43.719395;Si;Si;2;3;A veces;No;2;No;0;0;No;Automovil;Obesidad_Tipo_I
+Femenino;43.37634;Si;Si;3;1;A veces;No;2;No;1;0;No;Automovil;Obesidad_Tipo_I
+Femenino;39.648946;Si;Si;2;3;A veces;No;1;No;0;0;No;Automovil;Obesidad_Tipo_I
+Femenino;22.693989;Si;Si;2;1;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;22.676243;Si;Si;2;1;A veces;No;3;No;0;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;22.804818;Si;Si;3;1;A veces;No;3;No;1;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;22.857123;Si;Si;3;1;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;23.096353;Si;Si;2;3;A veces;No;2;No;2;2;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;22.815416;Si;Si;2;3;A veces;No;2;No;2;2;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;21.02064;Si;Si;3;1;A veces;No;3;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;21.001458;Si;Si;2;1;A veces;No;3;No;2;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;22.87795;Si;Si;2;3;A veces;No;3;No;0;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;22.847618;Si;Si;2;2;A veces;No;2;No;0;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;23;Si;Si;2;3;A veces;No;3;No;2;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;23;Si;Si;2;1;A veces;No;3;No;1;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;39.129291;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;37.441044;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;22.969366;Si;Si;2;3;A veces;No;2;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;22.735328;Si;Si;2;3;A veces;No;2;No;2;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;23.32471;Si;Si;2;3;A veces;No;3;No;3;2;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;23.668137;Si;Si;2;3;A veces;No;3;No;3;2;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;21.895468;Si;Si;3;1;A veces;No;3;No;1;2;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;21.3928;Si;Si;3;1;A veces;No;3;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;18.178076;Si;Si;3;3;A veces;No;1;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;18.907514;Si;Si;3;3;A veces;No;1;No;0;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;26.011928;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;25.696736;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;40.466313;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;38.445148;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;24.473062;Si;Si;1;3;A veces;No;1;No;1;1;No;Automovil;Obesidad_Tipo_I
+Masculino;23.479181;Si;Si;1;3;A veces;No;1;No;1;1;No;Automovil;Obesidad_Tipo_I
+Femenino;38.397463;Si;Si;3;1;A veces;No;1;No;2;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;37.974483;Si;Si;3;2;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;31.783524;Si;Si;3;2;A veces;No;2;No;2;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;29.681308;Si;Si;2;2;A veces;No;2;No;2;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;21.587743;Si;Si;2;3;A veces;No;2;No;0;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.746113;Si;Si;2;3;A veces;No;2;No;0;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;39.569004;Si;Si;3;2;A veces;No;3;No;3;1;Frecuentemente;Automovil;Obesidad_Tipo_I
+Masculino;36.67933;Si;Si;3;1;A veces;No;3;No;3;1;Frecuentemente;Automovil;Obesidad_Tipo_I
+Masculino;22.927011;Si;Si;2;3;A veces;No;3;No;3;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;23.329344;Si;Si;2;3;A veces;No;3;No;3;2;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;22.126325;Si;Si;2;3;A veces;No;2;No;3;2;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.679158;Si;Si;2;3;A veces;No;3;No;2;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;36.673882;Si;Si;2;2;A veces;No;3;No;2;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;37.936044;Si;Si;2;2;A veces;No;3;No;2;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;22.226815;Si;Si;2;3;A veces;No;2;No;2;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;22.538932;Si;Si;1;1;A veces;No;2;No;2;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;22.307413;Si;Si;2;3;A veces;No;2;No;2;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;22.362877;Si;Si;2;3;A veces;No;2;No;2;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;22.89974;Si;Si;1;1;A veces;No;3;No;0;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;22.997168;Si;Si;3;1;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;38.895069;Si;Si;3;1;A veces;No;1;No;2;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;40.789529;Si;Si;2;1;A veces;No;2;No;2;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;40.654155;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;38.542937;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;25.95383;Si;Si;2;3;A veces;No;3;No;0;1;A veces;Automovil;Obesidad_Tipo_I
+Masculino;26.826961;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;23.803904;Si;Si;2;1;A veces;No;2;No;0;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;23.652435;Si;Si;2;1;A veces;No;2;No;0;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;20.677105;Si;Si;2;3;A veces;No;2;No;1;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.797388;Si;Si;2;3;A veces;No;3;No;1;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;22.719385;Si;Si;2;3;A veces;No;3;No;3;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;22.177099;Si;Si;2;3;A veces;No;3;No;3;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;23.099906;Si;Si;2;1;A veces;No;2;No;0;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;24.17851;Si;Si;2;1;A veces;No;2;No;0;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;20.924808;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;20.975973;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.856301;Si;Si;2;2;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;18.140751;Si;Si;2;2;A veces;No;2;No;1;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;18;Si;Si;3;3;A veces;No;2;No;2;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;18;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;20.206358;Si;Si;2;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;18.152876;Si;Si;2;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;22.336216;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;23;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;22.088059;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;23;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;20.993067;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;20.654752;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.624552;Si;Si;2;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.682636;Si;Si;2;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;18;Si;Si;2;1;A veces;No;2;No;1;2;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;18;Si;Si;2;1;A veces;No;2;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;18;Si;Si;2;1;A veces;No;2;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;18;Si;Si;2;1;A veces;No;2;No;1;2;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;19.374207;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;19.275687;Si;Si;1;3;A veces;No;1;No;1;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;22.956845;Si;Si;2;1;A veces;No;2;No;0;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;22.829681;Si;Si;3;1;A veces;No;2;No;0;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;22.200779;Si;Si;3;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.688557;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;20.803186;Si;Si;2;2;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;19.515324;Si;Si;2;2;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.962219;Si;Si;2;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_I
+Masculino;20.534089;Si;Si;2;3;A veces;No;3;No;1;2;A veces;Transporte_Publico;Obesidad_Tipo_I
+Femenino;39.29266;Si;Si;2;1;A veces;No;2;No;2;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;37.872971;Si;Si;2;2;A veces;No;2;No;2;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;37.613378;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;37.471683;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;18.611197;Si;Si;2;3;A veces;No;2;No;0;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;17.412629;Si;Si;2;3;A veces;No;2;No;0;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;39.12631;Si;Si;2;3;A veces;No;1;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;37.063599;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;41.318302;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;43.726081;Si;Si;2;3;A veces;No;3;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;18;Si;Si;2;2;A veces;No;3;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;18;Si;Si;2;3;A veces;No;2;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;18;Si;Si;2;2;A veces;No;3;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;18;Si;Si;2;2;A veces;No;3;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;29.409825;Si;Si;2;3;A veces;No;2;No;1;2;A veces;Automovil;Obesidad_Tipo_I
+Masculino;28.421533;Si;Si;2;3;A veces;No;2;No;1;2;A veces;Automovil;Obesidad_Tipo_I
+Femenino;18;Si;Si;3;3;A veces;No;2;No;1;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;18;Si;Si;2;3;A veces;No;1;No;1;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;23.246702;Si;Si;1;3;A veces;No;2;No;0;0;No;Automovil;Obesidad_Tipo_I
+Masculino;24.481032;Si;Si;2;3;A veces;No;1;No;0;1;No;Automovil;Obesidad_Tipo_I
+Masculino;29;Si;Si;1;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_I
+Masculino;27.968765;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Automovil;Obesidad_Tipo_I
+Femenino;18.024744;Si;Si;3;3;A veces;No;1;No;1;0;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;18.10682;Si;Si;2;3;A veces;No;1;No;1;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.379676;Si;Si;2;3;A veces;No;3;No;1;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;21.353237;Si;Si;2;3;A veces;No;2;No;0;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;20.338815;Si;Si;2;2;A veces;No;2;No;0;2;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;20.720639;Si;Si;2;1;A veces;No;2;No;0;2;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;19.045357;Si;Si;1;3;A veces;No;1;No;0;1;No;Transporte_Publico;Obesidad_Tipo_I
+Femenino;18.945961;Si;Si;3;3;A veces;No;1;No;0;1;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;18.88061;Si;Si;2;3;A veces;No;3;No;2;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;19.850524;Si;Si;2;3;A veces;No;2;No;2;0;No;Transporte_Publico;Obesidad_Tipo_I
+Masculino;30.200946;Si;Si;2;3;A veces;No;2;No;0;1;No;Automovil;Obesidad_Tipo_II
+Masculino;25.314589;Si;Si;2;3;A veces;No;2;No;2;0;No;Automovil;Obesidad_Tipo_II
+Masculino;37.186795;Si;Si;3;4;A veces;No;1;No;2;0;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;32.707653;Si;Si;3;2;A veces;No;1;No;2;0;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;27.562425;Si;Si;2;3;A veces;No;2;No;2;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.421596;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;26.945139;Si;No;2;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;34.139453;Si;No;3;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;26.225442;Si;Si;2;3;A veces;No;2;No;0;2;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;28.363149;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;27.991467;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.498751;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.605225;Si;Si;3;3;A veces;Si;2;No;1;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;31.457413;Si;Si;3;3;A veces;Si;1;No;1;2;A veces;Automovil;Obesidad_Tipo_II
+Masculino;24.82929;Si;Si;1;3;A veces;No;2;No;2;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.739421;Si;Si;1;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;41;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;27.83173;Si;Si;3;1;A veces;No;1;No;0;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;23.260061;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;22.705772;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.041043;Si;Si;3;2;A veces;No;1;No;2;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;20.013906;Si;Si;3;1;A veces;No;2;No;0;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.02019;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;25.15462;Si;Si;1;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;30.870724;Si;Si;3;4;A veces;No;1;No;2;0;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;28.712995;Si;Si;3;3;A veces;No;1;No;2;0;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.710511;Si;Si;2;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;29.827481;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;31.86893;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;36.542885;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;21.556361;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;23.963649;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.145295;Si;Si;2;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.2984;Si;Si;3;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;31.755387;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;30.62865;Si;Si;3;3;A veces;No;2;No;1;2;A veces;Automovil;Obesidad_Tipo_II
+Masculino;23.454558;Si;Si;2;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;23.432227;Si;Si;2;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;40.50021;Si;Si;2;4;A veces;No;1;No;2;0;No;Automovil;Obesidad_Tipo_II
+Masculino;34.576714;Si;Si;3;2;A veces;No;1;No;2;0;No;Automovil;Obesidad_Tipo_II
+Masculino;22.276969;Si;Si;3;2;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;21.963787;Si;Si;3;2;A veces;No;1;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.001685;Si;Si;3;1;A veces;No;1;No;1;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;20.027764;Si;Si;3;1;A veces;No;1;No;0;2;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;28.704462;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;26.774115;Si;Si;1;3;A veces;No;2;No;0;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;25.539411;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.300208;Si;Si;2;3;A veces;No;2;No;2;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;31.194458;Si;Si;2;4;A veces;No;2;No;1;0;No;Automovil;Obesidad_Tipo_II
+Masculino;40.794057;Si;Si;2;3;A veces;No;1;No;1;0;No;Automovil;Obesidad_Tipo_II
+Masculino;33.55336;Si;Si;3;2;A veces;No;1;No;2;0;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.304203;Si;Si;3;2;A veces;No;2;No;0;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.958051;Si;Si;3;3;A veces;No;2;No;2;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;29.429687;Si;Si;2;3;A veces;No;1;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.520854;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;30.610436;Si;Si;2;3;A veces;No;2;No;0;2;A veces;Automovil;Obesidad_Tipo_II
+Masculino;26.740655;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;26.680376;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;37.056193;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;28.825279;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;25.883749;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.486521;Si;Si;2;3;A veces;No;2;No;1;2;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;29.883021;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;26.957645;Si;Si;2;3;A veces;No;2;No;0;2;A veces;Automovil;Obesidad_Tipo_II
+Masculino;26.490926;Si;Si;2;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;27.558801;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;22.908879;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.201622;Si;Si;2;3;A veces;No;2;No;2;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;31.689773;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;30.242597;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;31.346845;Si;Si;3;3;A veces;Si;1;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.577343;Si;Si;2;3;A veces;Si;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.124595;Si;Si;1;3;A veces;No;2;No;2;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.509034;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.478662;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.100513;Si;Si;1;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;38.523646;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;38.71216;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;25.717522;Si;Si;3;1;A veces;No;1;No;0;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;32.259623;Si;Si;3;2;A veces;No;1;No;2;0;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;23.47007;Si;Si;3;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.408805;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.443011;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;22.906342;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.007488;Si;Si;3;2;A veces;No;1;No;0;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.686701;Si;Si;3;2;A veces;No;1;No;2;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;20.184451;Si;Si;3;1;A veces;No;1;No;0;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.447208;Si;Si;3;1;A veces;No;2;No;0;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.002029;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;30.188303;Si;Si;1;3;A veces;No;2;No;0;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;24.244029;Si;Si;3;4;A veces;No;1;No;2;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.521879;Si;Si;3;3;A veces;No;1;No;2;0;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;29.721964;Si;Si;2;3;A veces;No;1;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;29.906575;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;37.084742;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;39.08886;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;22.658572;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;22.889099;Si;Si;2;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.63474;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.920362;Si;Si;2;3;A veces;No;3;No;2;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;31.783845;Si;Si;3;3;A veces;No;2;No;1;2;A veces;Automovil;Obesidad_Tipo_II
+Masculino;31.627962;Si;Si;3;3;A veces;No;2;No;1;2;A veces;Automovil;Obesidad_Tipo_II
+Masculino;22.976188;Si;Si;2;3;A veces;No;2;No;2;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;22.977357;Si;Si;2;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;40.973007;Si;Si;2;3;A veces;No;1;No;1;0;No;Automovil;Obesidad_Tipo_II
+Masculino;41;Si;Si;2;3;A veces;No;1;No;1;0;No;Automovil;Obesidad_Tipo_II
+Masculino;21.721507;Si;Si;3;2;A veces;No;1;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;21.544554;Si;Si;3;2;A veces;No;1;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.000307;Si;Si;3;1;A veces;No;1;No;0;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.0409;Si;Si;3;1;A veces;No;1;No;1;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;29.509151;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;29.246269;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;25.341399;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.314163;Si;Si;2;3;A veces;No;2;No;2;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;40.366238;Si;Si;2;4;A veces;No;1;No;1;0;No;Automovil;Obesidad_Tipo_II
+Masculino;33.749594;Si;Si;3;3;A veces;No;1;No;2;0;No;Automovil;Obesidad_Tipo_II
+Masculino;32.867331;Si;Si;3;2;A veces;No;1;No;2;0;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.403205;Si;Si;3;2;A veces;No;1;No;1;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;29.687488;Si;Si;2;3;A veces;No;2;No;2;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;28.992809;Si;Si;2;3;A veces;No;1;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.475248;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;30.350516;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;26.684354;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;26.607478;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;33.174147;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;32.29016;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;26.050109;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.846279;Si;Si;2;3;A veces;No;2;No;1;2;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;29.620095;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;27.439056;Si;Si;2;3;A veces;No;2;No;0;2;A veces;Automovil;Obesidad_Tipo_II
+Masculino;28.493397;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;27.474245;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.036269;Si;Si;3;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.825398;Si;Si;2;3;A veces;No;3;No;2;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.493946;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;30.607546;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;31.194323;Si;Si;3;3;A veces;Si;1;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;31.36347;Si;Si;3;3;A veces;Si;1;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.027254;Si;Si;1;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.058566;Si;Si;2;3;A veces;No;2;No;2;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.417552;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.5822;Si;Si;1;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;40.106145;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;40.174191;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;27.186873;Si;Si;3;1;A veces;No;1;No;0;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.424369;Si;Si;3;2;A veces;No;1;No;1;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;23.141402;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.178638;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;22.832105;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;23.083621;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.079971;Si;Si;3;2;A veces;No;1;No;2;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;26.947786;Si;Si;3;2;A veces;No;1;No;1;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;20.101026;Si;Si;3;2;A veces;No;1;No;0;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;22.789402;Si;Si;3;2;A veces;No;2;No;0;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;28.404332;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;30.003358;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;25.136116;Si;Si;1;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.139466;Si;Si;1;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;31.743821;Si;Si;3;2;A veces;No;1;No;2;0;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.796262;Si;Si;3;2;A veces;No;1;No;2;0;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;28.393111;Si;Si;3;2;A veces;No;1;No;2;0;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;27.93982;Si;Si;3;2;A veces;No;1;No;1;0;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;31.034092;Si;Si;2;3;A veces;Si;1;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.684347;Si;Si;2;3;A veces;Si;1;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.108216;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;31.347497;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;31.761799;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;30.976932;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;37.588628;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;37.997912;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;21.6548;Si;Si;2;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;22.829753;Si;Si;1;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.015173;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;23.812795;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;23.975685;Si;Si;3;3;A veces;No;2;No;2;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.149036;Si;Si;2;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.062942;Si;Si;3;3;A veces;No;3;No;2;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.140074;Si;Si;3;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.722801;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;30.916426;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;31.010302;Si;Si;3;3;A veces;No;3;No;0;2;A veces;Automovil;Obesidad_Tipo_II
+Masculino;30.605464;Si;Si;3;3;A veces;No;2;No;1;2;A veces;Automovil;Obesidad_Tipo_II
+Masculino;24.622054;Si;Si;1;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;23.745833;Si;Si;2;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;23.327836;Si;Si;2;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;23.411141;Si;Si;2;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;39.825592;Si;Si;2;4;A veces;No;1;No;2;0;No;Automovil;Obesidad_Tipo_II
+Masculino;36.839761;Si;Si;3;3;A veces;No;1;No;2;0;No;Automovil;Obesidad_Tipo_II
+Masculino;33.789301;Si;Si;3;2;A veces;No;1;No;2;0;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;34.161998;Si;Si;3;2;A veces;No;1;No;1;0;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;22.580038;Si;Si;3;2;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;22.851721;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;23.254934;Si;Si;3;2;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;22.343204;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.006271;Si;Si;3;1;A veces;No;1;No;1;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.001196;Si;Si;3;1;A veces;No;1;No;0;2;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;20.156664;Si;Si;3;1;A veces;No;1;No;0;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;23.360307;Si;Si;3;1;A veces;No;1;No;1;2;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;28.986237;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;29.713169;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;27.394123;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;24.912254;Si;Si;1;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;25.526746;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.523127;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.822348;Si;Si;2;3;A veces;No;2;No;2;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.879411;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.361365;Si;Si;1;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;30.451174;Si;Si;1;4;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;40.564513;Si;Si;2;3;A veces;No;1;No;1;0;No;Automovil;Obesidad_Tipo_II
+Masculino;40.501722;Si;Si;2;3;A veces;No;2;No;1;0;No;Automovil;Obesidad_Tipo_II
+Masculino;30.315784;Si;Si;3;2;A veces;No;1;No;2;0;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;33.293166;Si;Si;3;2;A veces;No;1;No;2;0;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.638944;Si;Si;3;2;A veces;No;1;No;1;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;29.791101;Si;Si;3;1;A veces;No;1;No;0;0;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;31.205668;Si;Si;3;3;A veces;Si;1;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.899219;Si;Si;2;3;A veces;Si;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;29.669219;Si;Si;2;3;A veces;No;1;No;2;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.595632;Si;Si;2;3;A veces;No;1;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.554956;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;31.571392;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;30.577944;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;30.717727;Si;Si;2;3;A veces;No;2;No;1;2;A veces;Automovil;Obesidad_Tipo_II
+Masculino;26.734476;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;26.699317;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.659092;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;26.348156;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;37.638102;Si;Si;2;3;A veces;No;2;No;0;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;37.765356;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;28.255199;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;27.931432;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;25.492855;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.550506;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.542454;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.758307;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;29.981494;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;29.891473;Si;Si;2;3;A veces;No;2;No;0;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;26.778684;Si;Si;2;3;A veces;No;2;No;1;2;A veces;Automovil;Obesidad_Tipo_II
+Masculino;28.377958;Si;Si;2;3;A veces;No;2;No;0;2;A veces;Automovil;Obesidad_Tipo_II
+Masculino;26.199321;Si;Si;2;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;27.266287;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;27.635029;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;26.899886;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;22.758998;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;22.771001;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;23.826684;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.186273;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.945369;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;31.490699;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;31.56724;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;30.444081;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;31.199261;Si;Si;2;3;A veces;Si;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;31.190219;Si;Si;2;3;A veces;Si;1;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.575349;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.702559;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.057878;Si;Si;1;3;A veces;No;2;No;2;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.151286;Si;Si;1;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.137087;Si;Si;2;3;A veces;No;2;No;2;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.3292;Si;Si;2;3;A veces;No;2;No;2;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.66668;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.01277;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.047945;Si;Si;1;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.426457;Si;Si;2;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;37.207082;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;38.10894;Si;Si;2;3;A veces;No;2;No;1;1;A veces;Automovil;Obesidad_Tipo_II
+Masculino;38.644441;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;38.112989;Si;Si;2;3;A veces;No;2;No;1;0;A veces;Automovil;Obesidad_Tipo_II
+Masculino;24.825393;Si;Si;3;1;A veces;No;1;No;0;2;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;26.624342;Si;Si;3;1;A veces;No;1;No;0;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;33.722449;Si;Si;3;2;A veces;No;1;No;2;0;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;32.516469;Si;Si;3;2;A veces;No;1;No;2;0;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;23.881938;Si;Si;3;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;23.319635;Si;Si;3;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;23.912387;Si;Si;2;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.982997;Si;Si;1;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.511445;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.05331;Si;Si;3;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;22.906886;Si;Si;3;3;A veces;No;2;No;2;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;23.147644;Si;Si;3;3;A veces;No;3;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.001889;Si;Si;3;2;A veces;No;1;No;1;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;24.002404;Si;Si;3;2;A veces;No;1;No;1;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.71516;Si;Si;3;2;A veces;No;1;No;2;0;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;30.64243;Si;Si;3;2;A veces;No;1;No;1;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;20.068432;Si;Si;3;1;A veces;No;2;No;0;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;20.914366;Si;Si;3;1;A veces;No;1;No;0;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;25.512048;Si;Si;3;1;A veces;No;1;No;0;1;No;Transporte_Publico;Obesidad_Tipo_II
+Masculino;26.844812;Si;Si;3;1;A veces;No;1;No;0;1;No;Transporte_Publico;Obesidad_Tipo_II
+Femenino;25.919241;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.233541;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.147705;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;1;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.902283;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.540865;Si;Si;3;3;A veces;No;1;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;22.39251;Si;Si;3;3;A veces;No;1;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.305402;Si;Si;3;3;A veces;No;1;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.334585;Si;Si;3;3;A veces;No;1;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;22.978655;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.01245;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.056059;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.771001;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;24.265943;Si;Si;3;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.96701;Si;Si;3;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.590046;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;24.497373;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.991886;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.908431;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.177882;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.112503;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.902283;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.540865;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.520992;Si;Si;3;3;A veces;No;1;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.871153;Si;Si;3;3;A veces;No;1;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.768834;Si;Si;3;3;A veces;No;1;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.891491;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.941943;Si;Si;3;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.989016;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.367481;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.051107;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.998646;Si;Si;3;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;22.846357;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;19.885655;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.930376;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.897815;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.968792;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.335019;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.700748;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.222536;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.3756;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.943827;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.291974;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.653233;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.783865;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;19.17614;Si;Si;3;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.207423;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.633056;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.009596;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.954511;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.001969;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.772251;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;23.76197;Si;Si;3;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;24.449655;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.378203;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;19.725718;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.344018;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.322097;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;19.262934;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.566815;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;24.475242;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.612462;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.96773;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.989938;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.617227;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.030909;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.951084;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;22.980221;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;23.426036;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.999185;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.934757;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.327723;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;19.47219;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.816445;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.498965;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;19.137495;Si;Si;3;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.190733;Si;Si;3;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.840654;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.871667;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.501721;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.521294;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.314593;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;19.529746;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.768153;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.238416;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.930376;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.919571;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.918524;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.565662;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.744914;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.704699;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.089969;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.120739;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.986185;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.982113;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.748627;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.959772;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.653233;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.783865;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.412434;Si;Si;3;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;22.77789;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.140165;Si;Si;3;3;A veces;No;1;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.413498;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.391371;Si;Si;3;3;A veces;No;1;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.051982;Si;Si;3;3;A veces;No;1;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;23.455303;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;23.69484;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.601222;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.81158;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;19.993565;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.074449;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.904037;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;19.783234;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;24.291205;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.311534;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.966504;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.950898;Si;Si;3;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.848608;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.801791;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;23.712641;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;24.063874;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.95774;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.909353;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.954995;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.908829;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;19.297004;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.301773;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;19.872667;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.13782;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.42724;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.795187;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.493586;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.524336;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.908785;Si;Si;3;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.781751;Si;Si;3;3;A veces;No;2;No;1;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.289104;Si;Si;3;3;A veces;No;1;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.210732;Si;Si;3;3;A veces;No;1;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.656907;Si;Si;3;3;A veces;No;1;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.760734;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.028989;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.282238;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.388049;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.022206;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.102241;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.291969;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.530998;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.976968;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.924956;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.28253;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.999174;Si;Si;3;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.999942;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;23.365041;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;23.421726;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.826782;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.94093;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.921678;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.940153;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.999636;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.907833;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.991194;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.993154;Si;Si;3;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.988668;Si;Si;3;3;A veces;No;1;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.976209;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.743587;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.323767;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.394047;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.838323;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.20634;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.532826;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.438478;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.796266;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.992898;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.951737;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.982261;Si;Si;3;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.470652;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.289428;Si;Si;3;3;A veces;No;1;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.696073;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.561868;Si;Si;3;3;A veces;No;1;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.834018;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.895546;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;19.035557;Si;Si;3;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.634286;Si;Si;3;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.700876;Si;Si;3;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.741442;Si;Si;3;3;A veces;No;1;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.695892;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.635977;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.232659;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.008297;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.962949;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.964788;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.994949;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.952737;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.978166;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.67447;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.568951;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;23.647935;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;24.196367;Si;Si;3;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;24.284833;Si;Si;3;3;A veces;No;3;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;24.693108;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.862264;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.423482;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.394082;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.217015;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.330178;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;19.528936;Si;Si;3;3;A veces;No;3;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;19.364339;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.131526;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;19.012872;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;18.469086;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.572114;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.680123;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;24.469756;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.12791;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.986368;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.951979;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;26;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.97731;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.955014;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.996716;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.992348;Si;Si;3;3;A veces;No;2;No;0;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.974446;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.777565;Si;Si;3;3;A veces;No;3;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.722004;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;25.765628;Si;Si;3;3;A veces;No;2;No;0;0;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.016849;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.682367;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.285965;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;20.976842;Si;Si;3;3;A veces;No;2;No;2;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;21.982942;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;22.524036;Si;Si;3;3;A veces;No;2;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;24.361936;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
+Femenino;23.664709;Si;Si;3;3;A veces;No;3;No;1;1;A veces;Transporte_Publico;Obesidad_Tipo_III
