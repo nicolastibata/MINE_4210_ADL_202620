@@ -47,6 +47,18 @@ def etiqueta_ods(numero, con_numero=True):
 # ----------------------------------------------------
 # CARGA DE ARTEFACTOS DEL MODELO
 # ----------------------------------------------------
+# Directorio donde vive este script (app.py), independientemente de cuál sea
+# el directorio de trabajo actual desde el que Streamlit lo ejecute. Todas las
+# rutas de los artefactos se resuelven relativas a esto para evitar errores de
+# "archivo no encontrado" cuando el cwd no coincide con la carpeta del script
+# (algo común en Streamlit Community Cloud si app.py vive en una subcarpeta).
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+
+def artifact_path(filename):
+    return os.path.join(BASE_DIR, filename)
+
+
 @st.cache_resource
 def load_artifacts():
     model = None
@@ -56,17 +68,22 @@ def load_artifacts():
     try:
         import tensorflow as tf
 
-        if os.path.exists("ods_lstm_model.keras"):
-            model = tf.keras.models.load_model("ods_lstm_model.keras")
-        elif os.path.exists("ods_lstm_model.h5"):
-            model = tf.keras.models.load_model("ods_lstm_model.h5")
+        model_keras_path = artifact_path("ods_lstm_model.keras")
+        model_h5_path = artifact_path("ods_lstm_model.h5")
+        tokenizer_path = artifact_path("tokenizer.pickle")
+        label_encoder_path = artifact_path("label_encoder.pickle")
 
-        if os.path.exists("tokenizer.pickle"):
-            with open("tokenizer.pickle", "rb") as f:
+        if os.path.exists(model_keras_path):
+            model = tf.keras.models.load_model(model_keras_path)
+        elif os.path.exists(model_h5_path):
+            model = tf.keras.models.load_model(model_h5_path)
+
+        if os.path.exists(tokenizer_path):
+            with open(tokenizer_path, "rb") as f:
                 tokenizer = pickle.load(f)
 
-        if os.path.exists("label_encoder.pickle"):
-            with open("label_encoder.pickle", "rb") as f:
+        if os.path.exists(label_encoder_path):
+            with open(label_encoder_path, "rb") as f:
                 label_encoder = pickle.load(f)
 
     except Exception as e:
@@ -138,11 +155,21 @@ st.markdown(
 )
 
 if model is None or tokenizer is None or label_encoder is None:
+    try:
+        archivos_en_carpeta = os.listdir(BASE_DIR)
+    except Exception:
+        archivos_en_carpeta = ["(no se pudo listar la carpeta)"]
+
     st.error(
         "No se encontró el modelo entrenado. Coloca los archivos "
         "`ods_lstm_model.keras`, `tokenizer.pickle` y `label_encoder.pickle` en la misma "
-        "carpeta que este script para poder usar la aplicación."
+        "carpeta que este script (`app.py`) para poder usar la aplicación."
     )
+    with st.expander("Información de diagnóstico"):
+        st.write("Carpeta donde se está buscando los artefactos:")
+        st.code(BASE_DIR)
+        st.write("Archivos encontrados en esa carpeta:")
+        st.code("\n".join(sorted(archivos_en_carpeta)))
     st.stop()
 
 tab1, tab2, tab3 = st.tabs([
@@ -161,15 +188,15 @@ with tab1:
 
     with col_examples:
         st.markdown("**Ejemplos rápidos**")
-        ex1 = "No dejar clara la naturaleza de estos riesgos puede dar lugar a un exceso de inversión en empresas dependientes del agua y a peticiones de compensación cuando haya que reducir los derechos para evitar comprometer la calidad del agua y otros resultados medioambientales. Por ejemplo, es fundamental evitar cualquier escasez en la disponibilidad de agua para la refrigeración de centrales nucleares, ya que las consecuencias son inaceptablemente elevadas. Sin embargo, los agricultores que se dedican a cultivos anuales de escaso valor pueden estar dispuestos a renunciar al uso del agua en épocas de escasez, especialmente si pueden recuperar un mayor valor comerciando con sus derechos de agua para usos de mayor valor que el que pueden recuperar utilizando el agua. Los distintos usuarios del agua también tienen diferentes capacidades para gestionar el riesgo de escasez de agua dulce, mejorando la eficiencia, recurriendo a fuentes de agua alternativas o ajustando el calendario de su uso del agua.."
-        ex2 = "Los datos a nivel del sistema que no se derivan del cuestionario para estudiantes o escuelas de PISA 2015 se extraen de la publicación anual de la OCDE. Panorama de la educación, para aquellos países y economías que participan en esa recopilación periódica de datos. Para otros países y economías, se llevó a cabo una recopilación de datos a nivel de sistema especial en colaboración con los miembros de la Junta de Gobierno de PISA y los directores de proyectos nacionales."
-        ex3 = "Pero es poco probable que la transformación, incluso con un precio del carbono, sea fácil. Existen muchas barreras reconocidas (estructurales, financieras, institucionales, informativas y de actitud) que seguirán impidiendo la transición hacia una economía baja en carbono. Por ejemplo, los hogares y las empresas no siempre tienen en cuenta los costos del ciclo de vida de las tecnologías, los equipos y los electrodomésticos, sino que suelen comprarlos a costos más bajos."
+        ex1 = "Fomentar el acceso a agua potable limpia y construir redes de alcantarillado rural."
+        ex2 = "Promover la alfabetización digital y mejorar el equipamiento educativo en escuelas públicas."
+        ex3 = "Implementar sistemas de energía solar fotovoltaica para reducir las emisiones de carbono."
 
-        if st.button("Ejemplo: Agua limpia y saneamiento"):
+        if st.button("Ejemplo: Agua"):
             st.session_state["text_input"] = ex1
-        if st.button("Ejemplo: Educación de calidad"):
+        if st.button("Ejemplo: Educación"):
             st.session_state["text_input"] = ex2
-        if st.button("Ejemplo: Energía asequible y no contaminante"):
+        if st.button("Ejemplo: Energía"):
             st.session_state["text_input"] = ex3
 
     with col_input:
