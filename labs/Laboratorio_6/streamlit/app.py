@@ -120,7 +120,7 @@ def predict_ods_debug(text, max_len=50):
     """
     Igual que predict_ods pero para un solo texto, y además devuelve la
     información intermedia del pipeline (secuencia, padding, vocabulario,
-    probabilidades crudas) para poder depurar discrepancias con Colab.
+    probabilidades crudas) para poder detallar el proceso de clasificación.
     """
     from tensorflow.keras.preprocessing.sequence import pad_sequences
 
@@ -191,7 +191,7 @@ if model is None or tokenizer is None or label_encoder is None:
 
         st.caption(
             "Compara el tamaño en bytes de cada archivo contra el que ves en GitHub o en tu "
-            "máquina local/Colab. Si el tamaño no coincide, o si el .keras no es un ZIP "
+            "máquina local. Si el tamaño no coincide, o si el .keras no es un ZIP "
             "válido, el archivo se corrompió al subirlo o clonarlo (revisa configuración de "
             "Git para archivos binarios, o vuelve a subirlo)."
         )
@@ -325,10 +325,8 @@ with tab1:
         # D. PANEL DE DEPURACIÓN
         with st.expander("Panel de depuración (pipeline de tokenización y probabilidades crudas)"):
             st.markdown(
-                "Usa esta información para comparar contra lo que obtienes en Colab con el "
-                "mismo texto: si la secuencia tokenizada, el tamaño del vocabulario o las "
-                "probabilidades crudas no coinciden, el problema está en los artefactos "
-                "cargados (modelo, tokenizer o label encoder), no en el modelo entrenado."
+                "Usa esta información para observar la secuencia tokenizada, el tamaño del vocabulario o las "
+                "probabilidades crudas."
             )
 
             col_a, col_b = st.columns(2)
