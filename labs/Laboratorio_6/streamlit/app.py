@@ -213,15 +213,15 @@ with tab1:
 
     with col_examples:
         st.markdown("**Ejemplos rápidos**")
-        ex1 = "Fomentar el acceso a agua potable limpia y construir redes de alcantarillado rural."
-        ex2 = "Promover la alfabetización digital y mejorar el equipamiento educativo en escuelas públicas."
-        ex3 = "Implementar sistemas de energía solar fotovoltaica para reducir las emisiones de carbono."
+        ex1 = "No dejar clara la naturaleza de estos riesgos puede dar lugar a un exceso de inversión en empresas dependientes del agua y a peticiones de compensación cuando haya que reducir los derechos para evitar comprometer la calidad del agua y otros resultados medioambientales. Por ejemplo, es fundamental evitar cualquier escasez en la disponibilidad de agua para la refrigeración de centrales nucleares, ya que las consecuencias son inaceptablemente elevadas. Sin embargo, los agricultores que se dedican a cultivos anuales de escaso valor pueden estar dispuestos a renunciar al uso del agua en épocas de escasez, especialmente si pueden recuperar un mayor valor comerciando con sus derechos de agua para usos de mayor valor que el que pueden recuperar utilizando el agua. Los distintos usuarios del agua también tienen diferentes capacidades para gestionar el riesgo de escasez de agua dulce, mejorando la eficiencia, recurriendo a fuentes de agua alternativas o ajustando el calendario de su uso del agua.."
+        ex2 = "Los datos a nivel del sistema que no se derivan del cuestionario para estudiantes o escuelas de PISA 2015 se extraen de la publicación anual de la OCDE. Panorama de la educación, para aquellos países y economías que participan en esa recopilación periódica de datos. Para otros países y economías, se llevó a cabo una recopilación de datos a nivel de sistema especial en colaboración con los miembros de la Junta de Gobierno de PISA y los directores de proyectos nacionales."
+        ex3 = "Pero es poco probable que la transformación, incluso con un precio del carbono, sea fácil. Existen muchas barreras reconocidas (estructurales, financieras, institucionales, informativas y de actitud) que seguirán impidiendo la transición hacia una economía baja en carbono. Por ejemplo, los hogares y las empresas no siempre tienen en cuenta los costos del ciclo de vida de las tecnologías, los equipos y los electrodomésticos, sino que suelen comprarlos a costos más bajos."
 
-        if st.button("Ejemplo: Agua"):
+        if st.button("Ejemplo: Agua limpia y saneamiento"):
             st.session_state["text_input"] = ex1
-        if st.button("Ejemplo: Educación"):
+        if st.button("Ejemplo: Educación de calidad"):
             st.session_state["text_input"] = ex2
-        if st.button("Ejemplo: Energía"):
+        if st.button("Ejemplo: Energía asequible y no contaminante"):
             st.session_state["text_input"] = ex3
 
     with col_input:
