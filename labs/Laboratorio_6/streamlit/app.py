@@ -170,6 +170,31 @@ if model is None or tokenizer is None or label_encoder is None:
         st.code(BASE_DIR)
         st.write("Archivos encontrados en esa carpeta:")
         st.code("\n".join(sorted(archivos_en_carpeta)))
+
+        st.write("Verificación de integridad de cada archivo:")
+        import zipfile
+
+        for nombre in ["ods_lstm_model.keras", "tokenizer.pickle", "label_encoder.pickle"]:
+            ruta = artifact_path(nombre)
+            if not os.path.exists(ruta):
+                st.write(f"- `{nombre}`: no existe en esa ruta.")
+                continue
+
+            tamano_bytes = os.path.getsize(ruta)
+            linea = f"- `{nombre}`: {tamano_bytes:,} bytes"
+
+            if nombre.endswith(".keras"):
+                es_zip_valido = zipfile.is_zipfile(ruta)
+                linea += " — ZIP válido" if es_zip_valido else " — **NO es un ZIP válido (archivo corrupto)**"
+
+            st.write(linea)
+
+        st.caption(
+            "Compara el tamaño en bytes de cada archivo contra el que ves en GitHub o en tu "
+            "máquina local/Colab. Si el tamaño no coincide, o si el .keras no es un ZIP "
+            "válido, el archivo se corrompió al subirlo o clonarlo (revisa configuración de "
+            "Git para archivos binarios, o vuelve a subirlo)."
+        )
     st.stop()
 
 tab1, tab2, tab3 = st.tabs([
