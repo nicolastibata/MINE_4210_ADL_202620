@@ -15,12 +15,11 @@ A repo for "Análisis de Deep Learning" at Universidad de los Andes. You'll find
 | 4   | [Lab 4: Use of pre-trained CNN models to image classification](labs/Laboratorio_4/) | 1 hour         |
 | 5   | [Lab 5: CNN models for object detection](labs/Laboratorio_5/)                       | 1 hour         |
 | 6   | [Lab 6: RNN models and deployment](labs/Laboratorio_6/)                             | 1.5 hours      |
-| 7   | [Lab 7: Live demonstration]                                                         | 1 hour         |
-| 8   | [Lab 8: Transformer models to NLP + BertViz](labs/Laboratorio_8/)                   | 1 hour         |
-| 9   | [Lab 9: Evaluation and prompting for language models](labs/Laboratorio_9/)          | 1.5 hours      |
-| 10  | [Lab 10: VIT models for computer vision](labs/Laboratorio_10/)                      | 1.5 hours      |
-| 11  | [Lab 11: VAE/GAN and diffusion models](labs/Laboratorio_11/)                        | 1.5 hours      |
-| 12  | [Lab 12: Multimodal models and zero-shot](labs/Laboratorio_12/)                     | 1.5 hours      |
+| 7   | [Lab 7: Transformer models to NLP + BertViz](labs/Laboratorio_8/)                   | 1 hour         |
+| 8   | [Lab 8: Evaluation and prompting for language models](labs/Laboratorio_9/)          | 1.5 hours      |
+| 9   | [Lab 9: VIT models for computer vision](labs/Laboratorio_10/)                       | 1.5 hours      |
+| 10  | [Lab 10: VAE/GAN and diffusion models](labs/Laboratorio_11/)                        | 1.5 hours      |
+| 11  | [Lab 11: Multimodal models and zero-shot](labs/Laboratorio_12/)                     | 1.5 hours      |
 
 
 ## Assingments
