@@ -26,7 +26,7 @@ A repo for "Análisis de Deep Learning" at Universidad de los Andes. You'll find
 
 1. **Assingment 1: [Taller 1](assingments/assingment_1/)**
 2. **Assingment 2: [Taller 2](assingments/assingment_2/)**
-3. **Assingment 3:**
+3. **Assingment 3: [Taller 3](assingments/assingment_3/)**
 4. **Assingment 4:**
 5. **(Bonus) Assingment 5:**
 
